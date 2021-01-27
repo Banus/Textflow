@@ -1,7 +1,9 @@
 # TextFlow: Screenless Access to Non-Visual Smart Messaging
 
 This repository is the official implementation of the Android application
-developed for the paper **_TextFlow_: Screenless Access to Non-Visual Smart Messaging**.
+developed for the IUI 2021 paper "**_TextFlow_: Screenless Access to Non-Visual Smart Messaging**"
+by Pegah Karimi, Emanuele Plebani and Davide Bolchini at the Indiana University
+School of Informatics and Computing at IUPUI.
 
 A short script to filter candidate sentences for the system (see Section 3.3 of
 the paper) is in the `python` directory.
@@ -12,21 +14,26 @@ If you find this code useful, please cite the following paper:
 @inproceedings{karimi2021Textflow,
   title={Textflow: Screenless Access to Non-Visual Smart Messaging},
   author={Karimi, Pegah and Plebani, Emanuele and Bolchini, Davide},
+  affiliation={Indiana University-Purdue University Indianapolis}
   booktitle={Proceedings of the 26th International Conference on Intelligent User Interfaces},
   year={2021}
 }
 ```
 
-# Overview
+For more information on the content of this repository, contact the authors:
+Pegah Karimi (pekarimi@iu.edu), Emanuele Plebani (eplebani@iu.edu) and Davide
+Bolchini (dbolchin@iupui.edu).
+
+## Overview
 
 ![System diagram](/images/system.png)
 
 Textflow is a system implemented as an Android application to quickly generate
-messages from a set of selected topics for blind and visual impaired (BVI)
-people.
-It is based on aural messages to guide the user in the selection of topic and
-messages, and a finger-worn device (TapStrap) connected via Bluetooth for the
-selection itself.
+suggested messages in auditory form (via Text-To-Speech) from a set of selected
+topics for blind and visual impaired (BVI) people.
+The aural messages guide the user in the selection of topic and messages, and a
+finger-worn device (TapStrap) connected via Bluetooth is used for the selection
+itself.
 A BVI user is thus able to compose a message without having to take the phone
 in their hand.
 
@@ -43,8 +50,18 @@ Install the former with conda:
 conda install pytorch -c pytorch
 ```
 
-For `faiseq`, follow the instructions on the [official repository](https://github.com/pytorch/fairseq).
+For `faiseq`, follow the instructions on the
+[official repository](https://github.com/pytorch/fairseq).
 
 ## Contributing
 
-The code is released under the MIT license. Bugfixes and contributions are welcome.
+The code is released under the MIT license.
+Bugfixes and contributions are welcome.
+
+## Acknowledgments
+
+This research is based on work supported by the National Science Foundatio
+under Grant IIS #1909845 (PI: Davide Bolchini, Indiana University).
+Any opinions, findings and conclusions or recommendations expressed in this
+material are those of the authors and do not necessarily reflect those of the
+NSF.
