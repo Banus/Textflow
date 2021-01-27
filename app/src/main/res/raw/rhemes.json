@@ -1,0 +1,300 @@
+{
+  "topics": [
+    {
+      "name" : "In-vehicle",
+      "options": [
+        "on my way", "arrive late", "arrival time", "shopping", "appointment",
+        "pick up", "waiting", "signal my location", "changing plan",
+        "making plan", "not able to talk", "meeting", "phone call", "bring food",
+        "check-in location", "check-in guest"],
+      "moore_after": 5
+    },
+    {
+      "name": "Commuting",
+      "options": [
+        "on my way", "arrival time", "arrive late", "signal my location",
+        "waiting", "appointment", "changing plan", "making plan",
+        "check-in location", "shopping", "get to a location",
+        "not able to talk", "pick up", "meeting", "phone call",
+        "bring food", "check-in guest"],
+      "moore_after": 6
+    },
+    {
+      "name": "Point of interest",
+      "options": [
+        "get to a location", "signal my location", "check-in location",
+        "shopping", "waiting", "phone call", "pick up", "meeting",
+        "arrive late", "arrival time", "changing plan", "appointment",
+        "on my way", "making plans", "bring food", "not able to talk",
+        "check-in guest"],
+      "moore_after": 5
+    },
+    {
+      "name": "Frequent location",
+      "options": [
+        "arrive late", "meeting", "shopping", "appointment",
+        "not able to talk", "pick up", "arrival time", "get to a location",
+        "changing plan", "making plan", "signal my location", "phone call",
+        "waiting", "bring food", "check-in location",
+        "check-in guest", "on my way"],
+      "moore_after": 4
+    }
+  ],
+  "rhemes" : [
+    {
+      "name": "waiting",
+      "options": [
+        "I'm waiting for you",
+        "I've been waiting for a long time",
+        "I'm waiting at ${loc}",
+        "I'm waiting for someone",
+        "Wait a few minutes",
+        "I'm waiting outside",
+        "I'm waiting for ${moment}",
+        "I'm still waiting for my ride",
+        "Wait a few seconds",
+        "There is no need to wait for me",
+        "I'm not waiting for someone"
+      ]
+    },
+    {
+      "name": "arrive late",
+      "options": [
+        "I'm going to be late",
+        "I'll be late for ${moment}",
+        "I'll be late for our appointment",
+        "I'll return late",
+        "The ${transportation} is late!",
+        "My ride is late",
+        "I stuck in traffic"
+      ]
+    },
+    {
+      "name": "pick up",
+      "options": [
+        "I'm on my way to pick you up",
+        "I'll take you home",
+        "Can you take me home?",
+        "Pick me up from ${loc}",
+        "would you come with me?",
+        "Please ask for an Uber",
+        "I can't pick you up",
+        "You don't need to pick me up",
+        "I’m fine to go by walking"
+      ]
+    },
+    {
+      "name": "shopping",
+      "options": [
+        "I'm going to shopping",
+        "I'm going to shopping, Would you like anything?",
+        "I’ll go to shopping with someone",
+        "I'm in the ${loc}, Do you need anything?",
+        "Bring me to the supermarket",
+        "After work I have to buy food",
+        "I will do online shopping",
+        "I can’t go to shopping"
+      ]
+    },
+    {
+      "name": "changing plan",
+      "options": [
+        "I decided to change my plan",
+        "I can’t make it today",
+        "My plan has changed for tomorrow",
+        "I can’t come anymore, something came up!",
+        "I have to cancel our plan, can we reschedule?"
+      ]
+    },
+    {
+      "name": "making plan",
+      "options": [
+        "What are your plans for today?",
+        "What are your plans for tomorrow?",
+        "What are you up to?",
+        "What are you going to do this weekend?",
+        "What is your plan for ${moment}?",
+        "What is for dinner?",
+        "Where shall we go for dinner?",
+        "Do we have a companion for dinner?",
+        "What would you like for dinner?",
+        "Have you had your dinner yet?",
+        "Do you eat at home or out?"
+      ]
+    },
+    {
+      "name": "get to a location",
+      "options": [
+        "I can’t find you, where are you?",
+        "I am going in the wrong direction, I need help",
+        "I got lost",
+        "I can’t tell where I am",
+        "I can’t find the place",
+        "The building is too big, I’m lost",
+        "Heavy rain blocked my way",
+        "I can’t find my way back",
+        "I’m very close to the ${loc}!",
+        "I arrived; somebody help me",
+        "I'm here. Are you coming?",
+        "I'm waiting for you here. Come outside",
+        "I will arrive in 5 minutes",
+        "I wait outside for someone"
+      ]
+    },
+    {
+      "name": "arrival time",
+      "options": [
+        "I get there in a few minutes",
+        "I will interact with you at ${appointment}",
+        "30 minutes later I will come",
+        "An hour later I will come",
+        "I will return home in half an hour",
+        "I will return home in an hour",
+        "What time are you going to arrive for ${moment}?",
+        "I am on my way; will you arrive on time?"
+      ]
+    },
+    {
+      "name": "on my way",
+      "options": [
+        "I am on my way",
+        "I am on my way to home",
+        "I am getting ready to board the plane",
+        "I am on my way to pick you up",
+        "I am almost there"
+      ]
+    },
+    {
+      "name": "signal my location",
+      "options": [
+        "I arrived at ${loc} safely",
+        "I am leaving the ${loc}",
+        "I am near the ${loc}",
+        "I'm about to get off the train",
+        "I'm about to get off the bus",
+        "I stuck in traffic",
+        "There is an accident on the road"
+      ]
+    },
+    {
+      "name": "bring food",
+      "options": [
+        "Are you bringing food?",
+        "Can you bring breakfast in the morning?",
+        "Can you bring lunch in the afternoon?",
+        "Today I will skip lunch, no need to bring food"
+      ]
+    },
+    {
+      "name": "not able to talk",
+      "options": [
+        "I’ll call you when I can",
+        "I’m unable to speak, I am in the middle of commute",
+        "I’m in a meeting!",
+        "I will call you later"
+      ]
+    },
+    {
+      "name": "phone call",
+      "options": [
+        "Shall I call you for a moment?",
+        "When is a good time to call?",
+        "Call me when you can",
+        "Did you call?",
+        "Can we set up a phone call?"
+      ]
+    },
+    {
+      "name": "check-in location",
+      "options": [
+        "Have you arrived?",
+        "I'm here. Are you coming?",
+        "Are you here at ${loc}?",
+        "I'm in the ${loc}, where are you?",
+        "Did you find me?"
+      ]
+    },
+    {
+      "name": "check-in guest",
+      "options": [
+        "Will you come for dinner?",
+        "Are you ready for dinner?",
+        "Will you arrive on time for dinner?",
+        "Who is going to come for dinner?"
+      ]
+    },
+    {
+      "name": "meeting",
+      "options": [
+        "Don’t be late for the meeting!",
+        "There will be a meeting at ${meeting}",
+        "Are you ready for the upcoming meeting?",
+        "Heading for a meeting soon",
+        "The meeting is just a few minutes away",
+        "I had a meeting this morning",
+        "I have a meeting today",
+        "I’m still in a meeting",
+        "I'm a little early for the meeting",
+        "I skipped the meeting",
+        "The meeting is over",
+        "The meeting is canceled",
+        "Let's schedule a meeting",
+        "When will the meeting be finished?",
+        "Where is the meeting?",
+        "Everyone is coming to the meeting?",
+        "Who will be in the meeting?"
+      ]
+    },
+    {
+      "name": "appointment",
+      "options": [
+        "I will interact with you at ${appointment} for our appointment",
+        "Remember to come for our appointment",
+        "I have an appointment with a friend",
+        "A few hours countdown for our appointment",
+        "I am preparing for our appointment",
+        "I am on the way for an appointment",
+        "I have an appointment at the ${loc-cal}",
+        "I had an appointment this morning",
+        "Who wants to come to the appointment?",
+        "Will you arrive on time for the appointment?",
+        "Can we plan for later today?",
+        "Can we plan for tomorrow?",
+        "What is your plan for ${moment}?",
+        "When do you want to meet?",
+        "Where do you want to meet?"
+      ]
+    }
+  ],
+  "rules" : [
+    {
+      "name": "rule 1",
+      "options": [
+        "arrive late",
+        "changing plan"
+      ]
+    },
+    {
+    "name": "rule 2",
+    "options": [
+      "arrive late",
+      "arrival time",
+      "changing plan"
+    ]
+    },
+    {
+      "name": "rule 3",
+      "options": [
+        "waiting",
+        "arrive late"
+      ]
+     },
+    {
+      "name": "rule 4",
+      "options": [
+        "get to a location",
+        "waiting"
+      ]
+    }
+  ]
+}

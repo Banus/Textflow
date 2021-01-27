@@ -1,0 +1,144 @@
+[
+  {
+    "name": "scenario 1",
+    "description": "It is Saturday and you have plans to meet with a friend at Starbucks at 2 p.m.",
+    "tasks": [
+      {
+        "description": "You take an Uber and as you drive to the place you want to tell your friend that you’ll be a few minutes late ",
+        "topic": "In-vehicle",
+        "attributes": {
+          "moment": "dinner",
+          "appointment": "8 p.m.",
+          "transportation": "train",
+          "loc-cal": "Starbucks"
+        }
+      },
+      {
+        "description": "You get off the car, you walk in front to Starbucks and you want to know where your friend is ",
+        "topic": "Point of interest",
+        "attributes": {
+          "loc": "Starbucks",
+          "moment": "dinner",
+          "appointment": "8 p.m.",
+          "transportation": "train",
+          "loc-cal": "Starbucks"
+        }
+      },
+      {
+        "description": "You decide to go inside Starbucks waiting for your friend to arrive but can’t find the entrance. After 15 minutes walking around the area, the system suggests the following",
+        "topic": "rule 4",
+        "attributes": {
+          "loc": "Starbucks"
+        }
+      },
+      {
+        "description": "While sitting in the Starbucks, you get the notification that one of your work meetings scheduled for tomorrow at 10am is canceled, and you decide to inform your colleague",
+        "topic": "Point of interest",
+        "attributes": {
+          "loc": "Starbucks",
+          "moment": "dinner",
+          "meeting": "10 a.m.",
+          "appointment": "8 p.m.",
+          "transportation": "train",
+          "loc-cal": "Starbucks"
+        }
+      },
+      {
+        "description": "Finally, your friend shows up and you start chatting. At the end of the meeting you decide to go home by bus. While you are waiting at the bus stop you decide to text your partner that you’ll be home half an hour later",
+        "topic": "Commuting",
+        "attributes": {
+          "loc": "bus stop",
+          "moment": "dinner",
+          "transportation": "bus"
+        }
+      }
+    ]
+  },
+  {
+    "name": "scenario 2",
+    "tasks": [
+      {
+        "topic": "rule 1",
+        "attributes": {
+
+        }
+      },
+      {
+        "topic": "Frequent location",
+        "attributes": {
+          "moment": "lunch",
+          "loc": "work"
+        }
+      },
+      {
+        "topic": "Frequent location",
+        "attributes": {
+          "loc": "work",
+          "meeting": "4 p.m.",
+          "appointment": "4 p.m."
+        }
+      },
+      {
+        "topic": "rule 2",
+        "attributes": {
+          "loc": "work",
+          "moment": "dinner"
+        }
+      },
+      {
+        "topic": "Commuting",
+        "attributes": {
+          "moment": "dinner",
+          "transportation": "bus"
+        }
+      }
+    ]
+  },
+  {
+    "name": "scenario 3",
+    "tasks": [
+      {
+        "topic": "Commuting",
+        "attributes": {
+          "moment": "lunch",
+          "transportation": "train",
+          "loc-cal": "friend's house",
+          "appointment": "2 p.m."
+        }
+      },
+      {
+        "topic": "rule 3",
+        "attributes": {
+          "loc": "train station",
+          "moment": "lunch"
+        }
+      },
+      {
+        "topic": "In-vehicle",
+        "attributes": {
+          "moment": "lunch",
+          "transportation": "train",
+          "loc-cal": "friend's house",
+          "appointment": "2 p.m."
+        }
+      },
+      {
+        "topic": "Commuting",
+        "attributes": {
+          "loc": "train station",
+          "moment": "lunch",
+          "transportation": "train",
+          "loc-cal": "friend's house",
+          "appointment": "2 p.m."
+        }
+      },
+      {
+        "topic": "In-vehicle",
+        "attributes": {
+          "transportation": "Uber",
+          "moment": "dinner"
+        }
+      }
+    ]
+  }
+]

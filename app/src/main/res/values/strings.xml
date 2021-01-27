@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Google Map</string>
+    <string name="title_activity_main">Screenless</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_recognition">ActivityRecognition</string>
+
+    <!-- Activity detection strings -->
+    <string name="in_vehicle">In a vehicle</string>
+    <string name="on_bicycle">On a bicycle</string>
+    <string name="on_foot">On foot</string>
+    <string name="running">Running</string>
+    <string name="still">Still</string>
+    <string name="tilting">Tilting</string>
+    <string name="unknown">Unknown activity</string>
+    <string name="walking">Walking</string>
+    <string name="unidentifiable_activity">Unidentifiable activity: %1$d</string>
+
+    <string name="detected_activities_title">Detected Activities</string>
+
+    <string name="request_activity_updates">Request updates</string>
+    <string name="remove_activity_updates">Remove updates</string>
+
+    <string name="activity_updates_enabled">Activity updates enabled</string>
+    <string name="activity_updates_not_enabled">Failed to enable activity updates</string>
+    <string name="activity_updates_removed">Activity updates removed</string>
+    <string name="activity_updates_not_removed">Failed to remove activity updates</string>
+
+    <string name="percent">%1$d%%</string>
+    <string name="full_flow">Self-disclosing flow</string>
+    <string name="scenario_1">Scenario 1</string>
+    <string name="scenario_2">Scenario 2</string>
+    <string name="scenario_3">Scenario 3</string>
+    <string name="sc1_t1">Task 1</string>
+    <string name="sc1_t2">Task 2</string>
+    <string name="sc1_t3">Task 3</string>
+    <string name="sc1_t4">Task 4</string>
+    <string name="sc1_t5">Task 5</string>
+</resources>
