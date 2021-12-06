@@ -50,8 +50,11 @@ Install the former with conda:
 conda install pytorch -c pytorch
 ```
 
-For `faiseq`, follow the instructions on the
+For `fairseq`, follow the instructions on the
 [official repository](https://github.com/pytorch/fairseq).
+
+A dataset of 850+ interpersonal text communication is available in
+`Dataset.tsv`.
 
 ## Contributing
 

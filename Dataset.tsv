@@ -1,0 +1,854 @@
+Situation 	Topic	Message	Message type	Values 	sub values 
+in-vehicle	Arrive late	I am going to be late 	Notifying someone		
+in-vehicle	Arrive late	__ will arrive late 	Notifying someone	"The son, mom, my friend, dad, the daughter, my wife, my husband, my colleague, the speaker, our guest "	
+in-vehicle	Arrive late	"I’m running late, I’ll be there in __"	Notifying someone	"5 min, 10 min, 15 min, 20 min, 25 min, 30 min"	
+in-vehicle	Arrive late	"__ is running late, they'll be there in __"	Notifying someone	"The son, mom, my friend, dad, the daughter, my wife, my husband, my colleague, the speaker, our guest --  5 min, 10 min, 15 min, 20 min, 25 min, 30 min"	
+in-vehicle	Arrive late	I’ll be late for __	Notifying someone	"Dinner, lunch, Breakfast"	
+in-vehicle	Arrive late	__ will be late for __	Notifying someone	"The son, mom, my friend, dad, the daughter, my wife, my husband, my colleague, the speaker, our guest  -- Dinner, lunch, Breakfast"	
+waiting at stations	Arrive late	My __ is late 	Notifying someone	"Flight, Bus, Ride, Train, Uber"	
+in-vehicle	Arrive late	I stuck in traffic!	Notifying someone		
+in-vehicle	Arrive late	__ stuck in traffic!	Notifying someone	"The son, mom, my friend, dad, the daughter, my wife, my husband, my colleague, the speaker, our guest "	
+walking to stations	Arrive late	I came back late!	Notifying someone		
+walking to stations	Arrive late	__ came back late!	Notifying someone	"The son, mom, my friend, dad, the daughter, my wife, my husband, my colleague, the speaker, our guest "	
+in-vehicle	Arrive late	"I’m running late, I’ll be there as soon as I can "	Notifying someone		
+in-vehicle	Arrive late	"__ is running late, they’ll be there as soon as they can "	Notifying someone	"The son, mom, my friend, dad, the daughter, my wife, my husband, my colleague, the speaker, our guest "	
+walking to stations	Arrive late	I’m going to miss the __	Notifying someone	"Train, bus, plane, shuttle"	
+walking to stations	Arrive late	__ is going to miss the __	Notifying someone	"The son, mom, my friend, dad, the daughter, my wife, my husband, my colleague, the speaker, our guest "	
+waiting at stations	Arrive late	"I missed the __, I’m going to be late"	Notifying someone	"Train, bus, plane, shuttle"	
+waiting at stations	Arrive late	"__ missed the __, they are going to be late"	Notifying someone	"The son, mom, my friend, dad, the daughter, my wife, my husband, my colleague, the speaker, our guest -- Train, bus, plane, shuttle"	
+waiting at stations	Arrive late	"Paratransit didn’t show up, I’ll be there when I can"	Notifying someone		
+waiting at stations	Arrive late	"Paratransit didn’t show up, __ will be there when they can"	Notifying someone	"The son, mom, my friend, dad, the daughter, my wife, my husband, my colleague, the speaker, our guest "	
+in-vehicle	Arrive late	I will arrive at __ late	Notifying someone	"Work, Class, School, Airport, home"	
+in-vehicle	Arrive late	__ will arrive at __ late	Notifying someone	"The son, mom, my friend, dad, the daughter, my wife, my husband, my colleague, the speaker, our guest -- Work, Class, School, Airport, home"	
+waiting at stations	Arrive late	"Something unexpected happen, __ is going to be late"	Notifying someone	"The son, mom, my friend, dad, the daughter, my wife, my husband, my colleague, the speaker, our guest "	
+waiting at stations	Arrive late	I will be late for our __	Notifying someone	"Appointment, meeting, talk, interview, meal, class, session "	
+waiting at stations	Arrive late	__ will be late for our __	Notifying someone	"The son, mom, my friend, dad, the daughter, my wife, my husband, my colleague, the speaker, our guest  -- Appointment, meeting, talk, interview, meal, class, session "	
+waiting at stations	Arrive late	The __ has delay 	Notifying someone	"Flight, bus, train"	
+in-vehicle	Arrive late	The landing was __ behind the schedule 	Notifying someone	"5 min, 10 min, 15 min, 20 min, 25 min, 30 min, 35 min, 40 min, 45 min, 50 min, 55 min, 1 hour "	
+inside points-of-interest	Arrive late	The landing is __ behind the schedule 	Notifying someone		
+in-vehicle	Arrive late	Do you think you might arrive late?	Coordinating with someone		
+in-vehicle	Arrive late	Do you think __ might arrive late?	Coordinating with someone	"The son, mom, my friend, dad, the daughter, my wife, my husband, my colleague, the speaker, our guest "	
+in-vehicle	Arrive late	"Do you think you might arrive late? If so, I can wait"	Coordinating with someone		
+in-vehicle	Arrive late	"Do you think __ might arrive late? If so, I can wait"	Coordinating with someone	"The son, mom, my friend, dad, the daughter, my wife, my husband, my colleague, the speaker, our guest "	
+inside frequently visited locations	Arrive late	"Do you think you might arrive late? If so, I will leave __ later"	Coordinating with someone	"5 min, 10 min, 15 min, 20 min, 25 min, 30 min, 35 min, 40 min, 45 min, 50 min, 55 min, 1 hour "	
+inside frequently visited locations	Arrive late	"Do you think __ might arrive late? If so, I will leave __ later"	Coordinating with someone	"The son, mom, my friend, dad, the daughter, my wife, my husband, my colleague, the speaker, our guest -- 5 min, 10 min, 15 min, 20 min, 25 min, 30 min, 35 min, 40 min, 45 min, 50 min, 55 min, 1 hour "	
+in-vehicle	Arrive late	I will be late; can you please wait for me?	Coordinating with someone		
+in-vehicle	Arrive late	__ will be late; can you please wait?	Coordinating with someone	"The son, mom, my friend, dad, the daughter, my wife, my husband, my colleague, the speaker, our guest "	
+in-vehicle	Arrive late	I will be late; can you please leave __ later?	Coordinating with someone	"5 min, 10 min, 15 min, 20 min, 25 min, 30 min"	
+in-vehicle	Arrive late	__ will be late; can you please leave __ later?	Coordinating with someone	"The son, mom, my friend, dad, the daughter, my wife, my husband, my colleague, the speaker, our guest -- 5 min, 10 min, 15 min, 20 min, 25 min, 30 min"	
+in-vehicle	Arrive late	I might be late by __; can you please wait for me?	Coordinating with someone	"5 min, 10 min, 15 min, 20 min, 25 min, 30 min"	
+in-vehicle	Arrive late	__ might be late by __; can you please wait?	Coordinating with someone	"The son, mom, my friend, dad, the daughter, my wife, my husband, my colleague, the speaker, our guest -- 5 min, 10 min, 15 min, 20 min, 25 min, 30 min"	
+in-vehicle	Arrive late	I might be late; have you already left the __?	Coordinating with someone	"Work, Class, School, Airport, home"	
+in-vehicle	Arrive late	__ might be late; have you already left the __?	Coordinating with someone	"The son, mom, my friend, dad, the daughter, my wife, my husband, my colleague, the speaker, our guest -- Work, Class, School, Airport, home"	
+in-vehicle	Arrive late	I might arrive late; do you want to reschedule the __?	Rescheduling plans	"Meeting, appointment, interview, call, plan, trip, reservation, ride, session, visit, event, dinner, lunch, breakfast "	
+in-vehicle	Arrive late	"Are you going to be late? If so, we can reschedule the __"	Rescheduling plans		
+in-vehicle	Arrive late	__ might arrive late; do you want to reschedule the __?	Rescheduling plans	"The son, mom, my friend, dad, the daughter, my wife, my husband, my colleague, the speaker, our guest -- Meeting, appointment, interview, call, plan, trip, reservation, ride, session, visit, event, dinner, lunch, breakfast "	
+waiting at stations	Arrive late	"__ is going to be late? If so, we can reschedule the __"	Rescheduling plans		
+waiting at stations	Arrive late	I am going to be late; can you give a ride please?	Requesting help		
+waiting at stations	Arrive late	__ is going to be late; can you give a ride please?	Requesting help	"The son, mom, my friend, dad, the daughter, my wife, my husband, my colleague, the speaker, our guest "	
+in-vehicle	Arrive late	I stuck in traffic at * and will be late; I need a ride 	Requesting help		
+in-vehicle	Arrive late	__ stuck in traffic at * and will be late; I need a ride 	Requesting help	"The son, mom, my friend, dad, the daughter, my wife, my husband, my colleague, the speaker, our guest "	
+nearby points-of-interest	Arrive late	I got lost at * and will be late; I need a ride 	Requesting help		
+nearby points-of-interest	Arrive late	__ got lost at * and will be late; I need a ride 	Requesting help	"The son, mom, my friend, dad, the daughter, my wife, my husband, my colleague, the speaker, our guest "	
+inside points-of-interest	Arrive late	I am going to be late; can you request a ride please?	Requesting help		
+inside points-of-interest	Arrive late	__ is going to be late; can you request a ride please?	Requesting help	"The son, mom, my friend, dad, the daughter, my wife, my husband, my colleague, the speaker, our guest "	
+inside points-of-interest	Arrive late	I am going to be late; can you ask __ for a ride?	Requesting help	"Someone, the son, mom, my friend, dad, the daughter, my wife, my husband "	
+in-vehicle	Arrive late	I stuck in traffic at * and will be late; can you ask __ for a ride?	Requesting help		
+waiting at stations	Arrive late	__ is going to be late; can you ask __ for a ride?	Requesting help	"The son, mom, my friend, dad, the daughter, my wife, my husband, my colleague, the speaker, our guest -- Someone, the son, mom, my friend, dad, the daughter, my wife, my husband "	
+in-vehicle	Arrive late	__ stuck in traffic at * and will be late; can you ask __ for a ride?	Requesting help		
+in-vehicle	Arrive late	Do you think you might be late? I can give you a ride 	Offering help		
+in-vehicle	Arrive late	Do you think __ might be late? I can give you a ride 	Offering help	"The son, mom, my friend, dad, the daughter, my wife, my husband, my colleague, the speaker, our guest "	
+in-vehicle	Arrive late	Do you think you might be late? I can ask __ to give you a ride 	Offering help	"Someone, the son, mom, my friend, dad, the daughter, my wife, my husband "	
+walking to stations	Arrive late	Please remind me if you are going to be late	Reminding someone		
+walking to stations	Arrive late	Please remind __ if you are going to be late	Reminding someone	"The son, mom, my friend, dad, the daughter, my wife, my husband, my colleague, the speaker, our guest "	
+walking to stations	Arrive late	Please remind me if __ is going to be late	Reminding someone	"The son, mom, my friend, dad, the daughter, my wife, my husband, my colleague, the speaker, our guest "	
+walking to stations	Arrive late	Please remind me if you are going to be late for the __	Reminding someone	"Work, class, meeting, appointment, dinner, lunch, breakfast, school, event, church, ride, bus, train, conference, interview, presentation, visit, movie"	
+walking to stations	Arrive late	Please remind __ if you are going to be late for the __	Reminding someone	"The son, mom, my friend, dad, the daughter, my wife, my husband, my colleague, the speaker, our guest -- Work, class, meeting, appointment, dinner, lunch, breakfast, school, event, church, ride, bus, train, conference, interview, presentation, visit, movie"	
+walking to stations	Arrive late	Please remind me if __ is going to be late for the __	Reminding someone	"The son, mom, my friend, dad, the daughter, my wife, my husband, my colleague, the speaker, our guest -- Work, class, meeting, appointment, dinner, lunch, breakfast, school, event, church, ride, bus, train, conference, interview, presentation, visit, movie"	
+walking to stations	Arrive late	Please remember that I am going to be late	Reminding someone		
+walking to stations	Arrive late	Please remember that __ is going to be late	Reminding someone	"The son, mom, my friend, dad, the daughter, my wife, my husband, my colleague, the speaker, our guest "	
+walking to stations	Arrive late	Please remember that I am going to be late for __	Reminding someone	"Work, class, meeting, appointment, dinner, lunch, breakfast, school, event, church, ride, bus, train, conference, interview, presentation, visit, movie"	
+walking to stations	Arrive late	Please remember that __ is going to be late for __	Reminding someone	"The son, mom, my friend, dad, the daughter, my wife, my husband, my colleague, the speaker, our guest -- Work, class, meeting, appointment, dinner, lunch, breakfast, school, event, church, ride, bus, train, conference, interview, presentation, visit, movie"	
+in-vehicle	Arrive late	I might arrive late; do you want to cancel the __?	Scheduling plans	"Meeting ,appointment, interview, call, plan, trip, reservation, ride, session, visit, event, dinner, lunch, breakfast "	
+in-vehicle	Arrive late	__ might arrive late; do you want to cancel the __?	Scheduling plans	"The son, mom, my friend, dad, the daughter, my wife, my husband, my colleague, the speaker, our guest -- Meeting ,appointment, interview, call, plan, trip, reservation, ride, session, visit, event, dinner, lunch, breakfast "	
+in-vehicle	Arrive late	"If you are going to arrive late, I can cancel the __?"	Scheduling plans	"Meeting ,appointment, interview, call, plan, trip, reservation, ride, session, visit, event, dinner, lunch, breakfast "	
+in-vehicle	Arrive late	"If __ is going to arrive late, I can cancel the __?"	Scheduling plans	"The son, mom, my friend, dad, the daughter, my wife, my husband, my colleague, the speaker, our guest -- Meeting ,appointment, interview, call, plan, trip, reservation, ride, session, visit, event, dinner, lunch, breakfast "	
+in-vehicle	Arrive late	I might arrive late; would you like to schedule a new __?	Scheduling plans	"Meeting ,appointment, interview, call, plan, trip, reservation, ride, session, visit, event, dinner, lunch, breakfast "	
+in-vehicle	Arrive late	__ might arrive late; would you like to schedule a new __?	Scheduling plans	"The son, mom, my friend, dad, the daughter, my wife, my husband, my colleague, the speaker, our guest -- Meeting ,appointment, interview, call, plan, trip, reservation, ride, session, visit, event, dinner, lunch, breakfast "	
+in-vehicle	Arrive late	"If you are going to be late, would you like to schedule a new __?"	Scheduling plans	"Meeting ,appointment, interview, call, plan, trip, reservation, ride, session, visit, event, dinner, lunch, breakfast "	
+in-vehicle	Arrive late	"If __ is going to be late, would you like to schedule a new __?"	Scheduling plans	"The son, mom, my friend, dad, the daughter, my wife, my husband, my colleague, the speaker, our guest -- Meeting ,appointment, interview, call, plan, trip, reservation, ride, session, visit, event, dinner, lunch, breakfast "	
+in-vehicle	Waiting 	"I am ready to get off the __, wait a few minutes"	Notifying someone	"Bus, train, car, plane "	
+in-vehicle	Waiting 	"I am ready to get off the __, wait for __"	Notifying someone	"Bus, train, car, plane -- 5 min, 10 min, 15 min, 20 min, 25 min, 30 min"	
+waiting at stations	Waiting 	"If you won't get here on time, I can wait"	Notifying someone		
+waiting at stations	Waiting 	"If you won't get here on time, I can wait for __"	Notifying someone	"5 min, 10 min, 15 min, 20 min, 25 min, 30 min"	
+in-vehicle	Waiting 	Are you still waiting for me?	Notifying someone		
+in-vehicle	Waiting 	Are you still waiting for __?	Notifying someone	"The son, mom, my friend, dad, the daughter, my wife, my husband, my colleague, the speaker, our guest "	
+in-vehicle	Waiting 	I will wait for you at the __	Notifying someone	"Front door, gate, airport, entrance, exit"	
+in-vehicle	Waiting 	__ will wait for you at the __	Notifying someone	"The son, mom, my friend, dad, the daughter, my wife, my husband, my colleague, the speaker, our guest -- Front door, gate, airport, entrance, exit"	
+waiting at stations	Waiting 	How long do __ have to wait?	Notifying someone	"I, we"	
+waiting at stations	Waiting 	I will wait until __	Notifying someone	"1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+in-vehicle	Waiting 	Could you please wait for __?	Notifying someone	"5 min, 10 min, 15 min, 20 min, 25 min, 30 min, 35 min, 40 min, 45 min, 50 min, 55 min, 1 hour"	
+nearby points-of-interest	Waiting 	I am waiting at the __	Notifying someone	"Front door, gate, airport, entrance, exit"	
+nearby points-of-interest	Waiting 	__ is waiting at the __	Notifying someone	"The son, mom, my friend, dad, the daughter, my wife, my husband, my colleague, the speaker, our guest -- Front door, gate, airport, entrance, exit"	
+nearby points-of-interest	Waiting 	I am still waiting for my __	Notifying someone	"ride, flight, friend, family, son, daughter, wife, husband, colleague, package "	
+nearby points-of-interest	Waiting 	I’ve been waiting for a long time for my __	Notifying someone	"ride, flight, friend, family, son, daughter, wife, husband, colleague "	
+nearby frequently visited locations	Waiting 	I am waiting right next to **	Notifying someone		
+nearby frequently visited locations	Waiting 	__ is waiting right next to **	Notifying someone	" The son, mom, my friend, dad, the daughter, my wife, my husband, my colleague, the speaker, our guest "	
+nearby points-of-interest	Waiting 	"I’m already outside, waiting for you "	Notifying someone		
+nearby points-of-interest	Waiting 	"__ is already outside, waiting for you "	Notifying someone	" The son, mom, my friend, dad, the daughter, my wife, my husband, my colleague, the speaker, our guest "	
+nearby frequently visited locations	Waiting 	I’m still waiting to be picked up 	Notifying someone		
+nearby points-of-interest	Waiting 	I am waiting for you to come	Notifying someone		
+nearby points-of-interest	Waiting 	__ is waiting for you to come	Notifying someone	" The son, mom, my friend, dad, the daughter, my wife, my husband, my colleague, the speaker, our guest "	
+nearby points-of-interest	Waiting 	I will wait for my __	Notifying someone	"friend, family, son, daughter, wife, husband, colleague, mom, dad"	
+in-vehicle	Waiting 	Wait a few minutes!	Notifying someone		
+in-vehicle	Waiting 	Wait a few seconds!	Notifying someone		
+in-vehicle	Waiting 	There is no need to wait for me 	Notifying someone		
+in-vehicle	Waiting 	There is no need to wait for __	Notifying someone	" The son, mom, my friend, dad, the daughter, my wife, my husband, my colleague, the speaker, our guest "	
+in-vehicle	Waiting 	I am not waiting anymore 	Notifying someone		
+nearby points-of-interest	Waiting 	I am still waiting to meet my __	Notifying someone	"Friend, colleague, family"	
+nearby points-of-interest	Waiting 	I am waiting for someone to bring __	Notifying someone	"Food, lunch, dinner, breakfast"	
+nearby points-of-interest	Waiting 	I am waiting for __	Notifying someone	"lunch, dinner, breakfast"	
+nearby points-of-interest	Waiting 	I am still waiting for someone	Notifying someone		
+nearby points-of-interest	Waiting 	I am waiting for my __ to return	Notifying someone	"friend, family, son, mom, dad, daughter, wife, husband, colleague "	
+nearby points-of-interest	Waiting 	__ will wait for you	Notifying someone	"I, we, others"	
+inside points-of-interest	Waiting 	__ are waiting for you	Notifying someone	"we, others"	
+waiting at stations	Waiting 	I am still waiting for the __	Notifying someone	"Bus, train, driver, taxi"	
+waiting at stations	Waiting 	__ is still waiting for the __	Notifying someone	" The son, mom, my friend, dad, the daughter, my wife, my husband, my colleague, the speaker, our guest -- Bus, train, driver, taxi"	
+nearby points-of-interest	Waiting 	I’ve been waiting for a long time 	Notifying someone		
+nearby points-of-interest	Waiting 	"There is a queue here, I am still waiting "	Notifying someone		
+nearby points-of-interest	Waiting 	I am waiting at *	Notifying someone		
+nearby points-of-interest	Waiting 	I am waiting outside the *	Notifying someone		
+inside points-of-interest	Waiting 	I am waiting for boarding at the airport 	Notifying someone		
+nearby points-of-interest	Waiting 	We are still waiting for our __	Notifying someone	"Guest, speaker, package"	
+nearby points-of-interest	Waiting 	I am waiting for  __ to go to __	Notifying someone	"My parents, the son, the daughter, the wife, the husband – work, school, sleep, class, "	
+in-vehicle	Waiting 	My __ is waiting for me	Notifying someone	"Son, daughter, wife, husband, colleague, friend, mom, dad"	
+in-vehicle	Waiting 	My __ are waiting for me	Notifying someone	"Parents, family, colleagues, friends"	
+waiting at stations	Waiting 	I have been waiting for the __ for a long time; can you check what is going on?	Requesting help	"Bus, train"	
+nearby points-of-interest	Waiting 	I have been waiting for our __ for a long time; can you check what is going on?	Requesting help	"Guests, friends, speaker"	
+waiting at stations	Waiting 	I have been waiting for the __ for a long time; can you give me a ride?	Requesting help	"Bus, train, driver, taxi"	
+waiting at stations	Waiting 	I have been waiting for the __ for a long time; can you request a ride?	Requesting help	"Bus, train, driver, taxi"	
+waiting at stations	Waiting 	I have been waiting for the __ for a long time; can you ask __ for ride?	Requesting help	"Bus, train, driver, taxi -- Someone, the son, mom, my friend, dad, the daughter, my wife, my husband "	
+waiting at stations	Waiting 	I have been waiting for a long time. Can we cancel our __?  	Scheduling plans	"Meeting ,appointment, plan, trip, reservation, ride, session, visit, event, dinner, lunch, breakfast "	
+waiting at stations	Waiting 	I have been waiting for a long time. Do you want to cancel our __?  	Scheduling plans		
+waiting at stations	Waiting 	I have been waiting for the __ for a long time. Can we cancel our __?  	Scheduling plans	"Bus, train, driver, taxi -- Meeting ,appointment, plan, trip, reservation, ride, session, visit, event, dinner, lunch, breakfast "	
+waiting at stations	Waiting 	I have been waiting for the __ for a long time. Do you want to cancel our __?  	Scheduling plans		
+waiting at stations	Waiting 	I have been waiting for a long time. Do you want to reschedule the __?	Rescheduling plans	"Meeting ,appointment, plan, trip, reservation, ride, session, visit, event, dinner, lunch, breakfast "	
+waiting at stations	Waiting 	I have been waiting for the __ for a long time. Do you want to reschedule the __?	Rescheduling plans	"Bus, train, driver, taxi -- Meeting ,appointment, plan, trip, reservation, ride, session, visit, event, dinner, lunch, breakfast "	
+in-vehicle	Waiting 	Have you waited for the __ for a long time? I am on the way and can share the ride 	Offering help	"Bus, train, driver, taxi "	
+in-vehicle	Waiting 	Have you waited for the __ for a long time? If you would like I can give you a ride	Offering help	"Bus, train, driver, taxi "	
+in-vehicle	Waiting 	"Have you waited for the __ for a long time? If so, I can ask __ to give you a ride"	Offering help	"Bus, train, driver, taxi -- Someone, the son, mom, my friend, dad, the daughter, my wife, my husband "	
+waiting at stations	Waiting 	Remember that I am going to wait at the __	Reminding someone	"Front door, gate, airport, entrance, exit, bus stop, train station"	
+waiting at stations	Waiting 	Remember that __ is going to wait at the __	Reminding someone	" The son, mom, my friend, dad, the daughter, my wife, my husband, my colleague, the speaker, our guest -- Front door, gate, airport, entrance, exit, bus stop, train station"	
+waiting at stations	Waiting 	Remember that I am going to wait at the __ at __	Reminding someone	"Front door, gate, airport, entrance, exit, bus stop, train station -- 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+waiting at stations	Waiting 	Remember that __ is going to wait at the __ at __	Reminding someone	" The son, mom, my friend, dad, the daughter, my wife, my husband, my colleague, the speaker, our guest -- Front door, gate, airport, entrance, exit, bus stop, train station -- 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+waiting at stations	Waiting 	Remember you have to wait at the __ for me to find you	Reminding someone	"Front door, gate, airport, entrance, exit, bus stop, train station"	
+waiting at stations	Waiting 	Remember you have to wait at the __ at __ for me to find you	Reminding someone	"Front door, gate, airport, entrance, exit, bus stop, train station -- 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+in-vehicle	Arrival time	I should be there in __	Notifying someone	"5 min, 10 min, 15 min, 20 min, 25 min, 30 min"	
+in-vehicle	Arrival time	I should get off the bus in __	Notifying someone	"5 min, 10 min, 15 min, 20 min, 25 min, 30 min"	
+in-vehicle	Arrival time	I am going to be home at __	Notifying someone	"1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+in-vehicle	Arrival time	__ is going to be home at __	Notifying someone	" The son, mom, my friend, dad, the daughter, my wife, my husband, my colleague, the speaker, our guest -- 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+in-vehicle	Arrival time	I am going to arrive a few minutes earlier 	Notifying someone		
+in-vehicle	Arrival time	The __ arrived early	Notifying someone	" Bus, train, Uber, driver, doctor, flight, taxi "	
+in-vehicle	Arrival time	The __ arrived __ earlier	Notifying someone	"Bus, train, Uber, driver, doctor, flight, taxi -- 5 min, 10 min, 15 min, 20 min, 25 min, 30 min"	
+in-vehicle	Arrival time	The plane landed early 	Notifying someone		
+in-vehicle	Arrival time	I’ll be there at __	Notifying someone	"1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+in-vehicle	Arrival time	__ will be there at __	Notifying someone	" The son, mom, my friend, dad, the daughter, my wife, my husband, my colleague, the speaker, our guest -- 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+waiting at stations	Arrival time	The train will arrive at __	Notifying someone	"1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	" 05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+waiting at stations	Arrival time	The bus will arrive at __	Notifying someone	"1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+in-vehicle	Arrival time	I will reach the __ in __	Notifying someone	"Bus, train, station, airport -- 5 min, 10 min, 15 min, 20 min, 25 min, 30 min"	
+inside frequently visited locations	Arrival time	I am leaving at __	Notifying someone	"1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+inside frequently visited locations	Arrival time	__ is leaving at __	Notifying someone	" The son, mom, my friend, dad, the daughter, my wife, my husband, my colleague, the speaker, our guest -- 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+inside points-of-interest	Arrival time	I arrived at __	Notifying someone	"1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+inside points-of-interest	Arrival time	I arrived __ ago	Notifying someone	"5 min, 10 min, 15 min, 20 min, 25 min, 30 min, 35 min, 40 min, 45 min, 50 min, 55 min, an hour"	
+inside points-of-interest	Arrival time	__ arrived __ ago	Notifying someone	"Dad, mom, the son, the daughter, my wife, my husband, my friend, my colleague -- 5 min, 10 min, 15 min, 20 min, 25 min, 30 min, 35 min, 40 min, 45 min, 50 min, 55 min, an hour"	
+waiting at stations	Arrival time	It will take __ by train to arrive	Notifying someone	"5 min, 10 min, 15 min, 20 min, 25 min, 30 min, 35 min, 40 min, 45 min, 50 min, 55 min, 1 hour, 1 hour 15 min, 1 hour and a half, 2 hours, 2 hours and a half, 3 hours"	
+waiting at stations	Arrival time	It will take __ by bus to arrive	Notifying someone	"5 min, 10 min, 15 min, 20 min, 25 min, 30 min, 35 min, 40 min, 45 min, 50 min, 55 min, 1 hour, 1 hour 15 min, 1 hour and a half, 2 hours, 2 hours and a half, 3 hours"	
+waiting at stations	Arrival time	It will take __ by plane to arrive	Notifying someone	"30 min, 35 min, 40 min, 45 min, 50 min, 55 min, 1 hour, 1 hour 15 min, 1 hour and a half, 2 hours, 2 hours and a half, 3 hours"	
+in-vehicle	Arrival time	I should be in the __ at __	Notifying someone	"Office, school, airport, house, hospital, station, city, mall, bar, restaurant, gym, hotel, class -- 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+in-vehicle	Arrival time	__ should be in the __ at __	Notifying someone	" The son, mom, my friend, dad, the daughter, my wife, my husband, my colleague, the speaker, our guest -- Office, school, airport, house, hospital, station, city, mall, bar, restaurant, gym, hotel, class -- 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+in-vehicle	Arrival time	I will be at __ at __	Notifying someone	"Work, home, airport, station, mall, restaurant, Starbucks, Bar -- 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+inside points-of-interest	Arrival time	I arrived at __ at __	Notifying someone		
+inside points-of-interest	Arrival time	__ arrived at __ at __	Notifying someone	" The son, mom, my friend, dad, the daughter, my wife, my husband, my colleague, the speaker, our guest -- Work, home, airport, station, mall, restaurant, Starbucks, Bar -- 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+inside points-of-interest	Arrival time	"I arrived at __ , __ ago"	Notifying someone	"Work, home, airport, station, mall, restaurant, Starbucks, Bar -- 5 min, 10 min, 15 min, 20 min, 25 min, 30 min, 35 min, 40 min, 45 min, 50 min, 55 min, 1 hour"	
+inside points-of-interest	Arrival time	"__ arrived at __ , __ ago"	Notifying someone	" The son, mom, my friend, dad, the daughter, my wife, my husband, my colleague, the speaker, our guest -- Work, home, airport, station, mall, restaurant, Starbucks, Bar -- 5 min, 10 min, 15 min, 20 min, 25 min, 30 min, 35 min, 40 min, 45 min, 50 min, 55 min, 1 hour"	
+in-vehicle	Arrival time	"__  just arrived, I will be there soon"	Notifying someone	"Dad, mom, the son, the daughter, my wife, my husband, my friend, my colleague, the speaker, our guest "	
+waiting at stations	Arrival time	"__ is coming, I will be there soon"	Notifying someone	"Dad, mom, the son, the daughter, my wife, my husband, my friend, my colleague, the speaker, our guest "	
+in-vehicle	Arrival time	The plane landed; I will arrive in __	Notifying someone	" 5 min, 10 min, 15 min, 20 min, 25 min, 30 min, 35 min, 40 min, 45 min, 50 min, 55 min, an hour"	
+in-vehicle	Arrival time	The plane landed; __ will arrive in __	Notifying someone	"Dad, mom, the son, the daughter, my wife, my husband, my friend, my colleague, the speaker, our guest  -- 5 min, 10 min, 15 min, 20 min, 25 min, 30 min, 35 min, 40 min, 45 min, 50 min, 55 min, an hour"	
+in-vehicle	Arrival time	"The __ arrived, I will be there soon"	Notifying someone	"Train, bus, flight, driver"	
+in-vehicle	Arrival time	"The __ arrived, I will be there in __"	Notifying someone	"Train, bus, flight, driver -- 5 min, 10 min, 15 min, 20 min, 25 min, 30 min, 35 min, 40 min, 45 min, 50 min, 55 min, an hour"	
+in-vehicle	Arrival time	I just arrived	Notifying someone		
+in-vehicle	Arrival time	__ just arrived	Notifying someone	"Dad, mom, the son, the daughter, my wife, my husband, my friend, my colleague, the speaker, our guest "	
+in-vehicle	Arrival time	I am almost __	Notifying someone	"There, home, here"	
+waiting at stations	Arrival time	"__  just arrived, I will be there in __"	Notifying someone	"Dad, mom, the son, the daughter, my wife, my husband, my friend, my colleague, the speaker, our guest -- 5 min, 10 min, 15 min, 20 min, 25 min, 30 min, 35 min, 40 min, 45 min, 50 min, 55 min, an hour"	
+waiting at stations	Arrival time	"__  is coming, I will be there in __"	Notifying someone		
+in-vehicle	Arrival time	What time are you going to be at __?	Coordinating with someone	"home, work, school, dinner, lunch, breakfast, station, store, restaurant, mall, bar, church, airport"	
+in-vehicle	Arrival time	What time are you supposed to be at __?	Coordinating with someone		
+in-vehicle	Arrival time	What time are you going to be home for __?	Coordinating with someone	"Breakfast, lunch, dinner, ceremony"	
+inside points-of-interest	Arrival time	What time are you going to be here?	Coordinating with someone		
+inside points-of-interest	Arrival time	What time __ is going to be here?	Coordinating with someone	"Dad, mom, the son, the daughter, my wife, my husband, my friend, my colleague, the speaker, our guest "	
+in-vehicle	Arrival time	"I will arrive to the __ at __, can you come and pick me up?"	Requesting help	"Train station, bus stop, airport, office, city, hotel, campus -- 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+in-vehicle	Arrival time	"I will arrive to the __ at __, can someone come and pick me up?"	Requesting help		
+in-vehicle	Arrival time	"__ will arrive to the __ at __, can you give a ride?"	Requesting help	"Dad, mom, the son, the daughter, my wife, my husband, my friend, my colleague , the speaker, our guest -- Train station, bus stop, airport, office, city, hotel, campus -- 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+in-vehicle	Arrival time	"I will arrive to the __  in __, can you come and pick me up?"	Requesting help	"Train station, bus stop, airport, office, city, hotel, campus -- 5 min, 10 min, 15 min, 20 min, 25 min, 30 min, 35 min, 40 min, 45 min, 50 min, 55 min, an hour"	
+in-vehicle	Arrival time	"I will arrive to the __ in __, can someone come and pick me up?"	Requesting help		
+in-vehicle	Arrival time	"I will arrive there in __, can you come outside and guide me in?"	Requesting help	"5 min, 10 min, 15 min, 20 min, 25 min, 30 min, 35 min, 40 min, 45 min, 50 min, 55 min, an hour"	
+in-vehicle	Arrival time	"__ will arrive to the __ at __, can you go outside and guide them in?"	Requesting help	"Dad, mom, the son, the daughter, my wife, my husband, my friend, my colleague , the speaker, our guest -- Train station, bus stop, airport, office, city, hotel, campus -- 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+in-vehicle	Arrival time	"I will arrive there in __, can you ask __ to come outside and guide me in?"	Requesting help	"Someone, your friend, your family "	
+in-vehicle	Arrival time	"I will arrive in __, can you ask __ to come and pick me up?"	Requesting help	"5 min, 10 min, 15 min, 20 min, 25 min, 30 min, 35 min, 40 min, 45 min, 50 min, 55 min, an hour -- Someone, the son, mom, my friend, dad, the daughter, my wife, my husband "	
+in-vehicle	Arrival time	"I will be home at __, do you want to go out for __?"	Scheduling plans	"1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 – breakfast, lunch, dinner, cinema, restaurant, bar, drink, coffee, brunch"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+in-vehicle	Arrival time	"__ will be home at __, do you want to go out for __?"	Scheduling plans	"Dad, mom, the son, the daughter, my wife, my husband, my friend, my colleague , the speaker, our guest -- 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 – breakfast, lunch, dinner, cinema, restaurant, bar, drink, coffee, brunch"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+in-vehicle	Arrival time	"I will be able to get there at __, do you want to cancel our plan?"	Scheduling plans	"1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+in-vehicle	Arrival time	"I will be home at __, do you want to cancel our plan?"	Scheduling plans		
+walking to stations	Arrival time	"I will finish the work at __, do you want to cancel our plan?"	Scheduling plans		
+walking to stations	Arrival time	"__ will be home at __, do you want to go out for __?"	Scheduling plans	"the son, mom, my friend, dad, the daughter, my wife, my husband -- 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 -- breakfast, lunch, dinner, cinema, restaurant, bar, drink, coffee, brunch"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+walking to stations	Arrival time	"__ will finish the work at __, do you want to go out for __?"	Scheduling plans		
+walking to stations	Arrival time	"__ will finish the work at __, do you want to cancel our plan?"	Scheduling plans	"the son, mom, my friend, dad, the daughter, my wife, my husband -- 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+walking to stations	Arrival time	"__ will be here at __, do you want to cancel our plan?"	Scheduling plans		
+in-vehicle	Arrival time	"I will be home at __, do you want to reschedule our plan for __?"	Rescheduling plans	"1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 – breakfast, lunch, dinner, cinema, restaurant, bar, drink, coffee, brunch"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+in-vehicle	Arrival time	"I will be able to get there at __, do you want to reschedule our plan?"	Rescheduling plans	"1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+in-vehicle	Arrival time	"I will be home at __, do you want to reschedule our plan?"	Rescheduling plans		
+walking to stations	Arrival time	"I will finish the work at __, do you want to reschedule our plan?"	Rescheduling plans		
+walking to stations	Arrival time	"__ will finish the work at __, do you want to reschedule our plan?"	Rescheduling plans	"the son, mom, my friend, dad, the daughter, my wife, my husband -- 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+in-vehicle	Arrival time	"__ will be here at __, do you want to reschedule our plan?"	Rescheduling plans		
+inside points-of-interest	Arrival time	"What time are you going to arrive to the __? So, I can come and guide you in."	Offering help	"Train station, bus stop, office, city, hotel, campus, store, place, mall, restaurant, bar, building, hospital "	
+inside points-of-interest	Arrival time	What time are you going to arrive to the __? I can ask my __ to come and guide you in	Offering help	"Train station, bus stop, office, city, hotel, campus, store, place, mall, restaurant, bar, building, hospital -- son, mom, friend, dad, daughter, wife, husband, colleague "	
+inside points-of-interest	Arrival time	What time are you going to arrive home? I can come and pick you up	Offering help		
+inside points-of-interest	Arrival time	What time are you going to arrive to the __? I can come and pick you up	Offering help	"Train station, bus stop, city, hotel, campus, airport, place, building"	
+inside points-of-interest	Arrival time	What time are you going to arrive to the __? I can ask my __ to come and pick you up	Offering help	"Train station, bus stop, city, hotel, campus, airport, place, building -- son, mom, friend, dad, daughter, wife, husband, colleague "	
+inside points-of-interest	Arrival time	Remember to be here at __	Reminding someone	"1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+inside points-of-interest	Arrival time	Remember I am going to be there at __	Reminding someone		
+inside points-of-interest	Arrival time	Remember to be at the __ at __	Reminding someone	"Train station, bus stop, office, city, hotel, campus, store, place, mall, restaurant, bar, building, hospital -- 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+inside points-of-interest	Arrival time	Remember I am going to arrive at the __ at __	Reminding someone		
+inside points-of-interest	Arrival time	Remember that __ is going to arrive at __	Reminding someone	"The son, mom, my friend, dad, the daughter, my wife, my husband, my colleague, the speaker, our guest --1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+nearby points-of-interest	Signal my location	I got to the * safely 	Notifying someone		
+nearby points-of-interest	Signal my location	I am at *	Notifying someone		
+nearby frequently visited locations	Signal my location	I just left the house 	Notifying someone		
+nearby frequently visited locations	Signal my location	I am leaving the house now 	Notifying someone		
+in-vehicle	Signal my location	I am about to get off the __	Notifying someone	"Train, Bus, plane, car "	
+nearby points-of-interest	Signal my location	I’m here	Notifying someone		
+nearby points-of-interest	Signal my location	I am in the __ level of building 	Notifying someone	"First, second, third"	
+nearby points-of-interest	Signal my location	I am near the **	Notifying someone		
+nearby points-of-interest	Signal my location	I am in the parking lot 	Notifying someone		
+nearby points-of-interest	Signal my location	I arrived 	Notifying someone		
+walking to stations	Signal my location	I am close to reach the __	Notifying someone	"Bus, train, station, mall, restaurant, Starbucks, Bar"	
+nearby points-of-interest	Signal my location	I am standing at the __	Notifying someone	"Front door, gate, entrance, exit"	
+nearby points-of-interest	Signal my location	I am almost there 	Notifying someone		
+in-vehicle	Signal my location	I have one more stop before reaching there 	Notifying someone		
+in-vehicle	Signal my location	I have __ more stops before reaching there 	Notifying someone	"One, two, three, four, five, six"	
+in-vehicle	Signal my location	I am halfway home	Notifying someone		
+in-vehicle	Signal my location	I am halfway to __	Notifying someone	"Last stop, mall, restaurant, work, school, bar, gym, city"	
+nearby points-of-interest	Signal my location	I just left the __	Notifying someone	"Work, mall, restaurant, school, bar, gym, city"	
+inside frequently visited locations	Signal my location	I am leaving the __ now	Notifying someone	"Work, mall, restaurant, school, bar, gym, city"	
+nearby points-of-interest	Signal my location	"I am at *, where are you?"	Coordinating with someone		
+waiting at stations	Signal my location	"I will be at __ shortly, where are you?"	Coordinating with someone	"Work, mall, restaurant, school, bar, gym, city"	
+nearby points-of-interest	Signal my location	"I am close to home, where are you?"	Coordinating with someone		
+nearby points-of-interest	Signal my location	"I am at *, when do you think you will arrive?"	Coordinating with someone		
+waiting at stations	Signal my location	"I will be at __ shortly, when do you think you will arrive?"	Coordinating with someone	"Work, mall, restaurant, school, bar, gym, city"	
+in-vehicle	Signal my location	"I am close to home, when do you think you will arrive?"	Coordinating with someone		
+inside points-of-interest	Signal my location	I am at *. Can you give me a ride?	Requesting help		
+inside points-of-interest	Signal my location	I am at *. Can you request a ride?	Requesting help		
+inside points-of-interest	Signal my location	I am at *. Can you ask __ for a ride?	Requesting help	"The son, mom, your friend, dad, the daughter, your wife, your husband "	
+nearby points-of-interest	Signal my location	"I am near the __, can you come and guide me in?"	Requesting help	"Mall, restaurant, bar, Starbucks"	
+nearby points-of-interest	Signal my location	"I am at *, can you come and guide me in?"	Requesting help		
+waiting at stations	Signal my location	"I will be at __ shortly, can you come and pick me up?"	Requesting help	"Work, mall, restaurant, school, bar, gym, city"	
+waiting at stations	Signal my location	I will be there soon; can you ask __ to pick me up?	Requesting help	"The son, mom, your friend, dad, the daughter, your wife, your husband "	
+waiting at stations	Signal my location	I will arrive to __ shortly; can you ask __ to pick me up?	Requesting help	"Work, mall, restaurant, school, bar, gym, city -- The son, mom, your friend, dad, the daughter, your wife, your husband "	
+in-vehicle	Signal my location	I just left the __; do you want me to share the ride with you?	Offering help	"House, work, mall, restaurant, school, bar, gym, city "	
+in-vehicle	Signal my location	I am close to your place; do you want me to share the ride with you?	Offering help		
+in-vehicle	Signal my location	We just left the __; do you want us to give you a ride?	Offering help	"House, work, mall, restaurant, school, bar, gym, city "	
+in-vehicle	Signal my location	We are close to your place; do you want us to give you a ride?	Offering help		
+waiting at stations	Signal my location	I am still at __; can we reschedule our plan?	Rescheduling plans	"Work, school, home, bus stop, train station"	
+nearby points-of-interest	Signal my location	I just left the __; do you want to reschedule our plan?	Rescheduling plans	"House, work, mall, restaurant, school, bar, gym, city "	
+waiting at stations	Signal my location	I am still at __; can we cancel our plan?	Scheduling plans	"Work, school, home, bus stop, train station"	
+nearby frequently visited locations	Signal my location	I just left the __; do you want to meet each other at the __?	Scheduling plans	"House, work, mall, restaurant, school, bar, gym, city --Front door, gate, entrance, exit"	
+nearby points-of-interest	Signal my location	I am close to the __; do you want to meet each other at the __?	Scheduling plans	"House, work, mall, restaurant, school, bar, gym, city --Front door, gate, entrance, exit, train station, bus stop"	
+nearby points-of-interest	Signal my location	I just left the __; do you want to meet each other at  __?	Scheduling plans	"House, work, mall, restaurant, school, bar, gym, city -- 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+waiting at stations	Signal my location	I am still at __; do you want to meet each other at  __?	Scheduling plans	"Work, school, home, bus stop, train station -- 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+waiting at stations	Signal my location	I am still at __; what time do you want to see each other? 	Scheduling plans	"Work, school, home, bus stop, train station"	
+waiting at stations	Signal my location	I am still at __; where do you want to see each other? 	Scheduling plans		
+nearby points-of-interest	Signal my location	I just left the __; where do you want to see each other? 	Scheduling plans	"House, work, mall, restaurant, school, bar, gym, city"	
+in-vehicle	Signal my location	I am halfway to __; where do you want to see each other? 	Scheduling plans	"Last stop, the place, mall, restaurant, work, school, bar, gym, city"	
+in-vehicle	Signal my location	I am halfway to __; do you want to meet each other at the __? 	Scheduling plans	"Last stop, the place, mall, restaurant, work, school, bar, gym, city -- Front door, gate, entrance, exit"	
+nearby frequently visited locations	On my way	"My Uber is here, and I am headed to your way "	Notifying someone		
+walking to stations	On my way	I am on my way home 	Notifying someone		
+waiting at stations	On my way	"I am getting picked up, I am on my way"	Notifying someone		
+waiting at stations	On my way	"The bus is ready to come, I am on my way "	Notifying someone		
+waiting at stations	On my way	"The train is ready to come, I am on my way "	Notifying someone		
+walking to stations	On my way	I am on my way to __	Notifying someone	"Work, airport, bus station, train station, supermarket, bar, library, restaurant, mall, vacation, dinner, lunch, breakfast, an appointment, a meeting"	
+walking to stations	On my way	I am on my way 	Notifying someone		
+walking to stations	On my way	I am on my way; I’ll be there in __	Notifying someone	"5 min, 10 min, 15 min, 20 min, 25 min, 30 min, 35 min, 40 min, 45 min, 50 min, 55 min, 1 hour"	
+walking to stations	On my way	I am on my way; I’ll be there at __	Notifying someone	"1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+in-vehicle	On my way	I am close to reach there	Notifying someone		
+in-vehicle	On my way	I forgot something; I am on the way back to __	Notifying someone	"Work, school, airport, bus station, train station, supermarket, bar, library, restaurant, mall"	
+in-vehicle	On my way	The plane is about to take off	Notifying someone		
+inside points-of-interest	On my way	Boarding for departure	Notifying someone		
+in-vehicle	On my way	I am on the way by __	Notifying someone	"Train, bus, Uber, paratransit, taxi, foot"	
+in-vehicle	On my way	I am on my way with __	Notifying someone	"Friend, family, dog, son, dad, mom, daughter, wife, husband"	
+waiting at stations	On my way	The job is done! I am on the way back to __	Notifying someone	"Town, home"	
+nearby points-of-interest	On my way	I am leaving for __	Notifying someone	"Work, school, class, meeting, appointment"	
+in-vehicle	On my way	I am on my way to meet __	Notifying someone	"Friends, colleagues, family "	
+in-vehicle	On my way	I am halfway there	Notifying someone		
+in-vehicle	On my way	"I am still on the way, I got stuck in traffic"	Notifying someone		
+in-vehicle	On my way	"I am still on the __, it had delay"	Notifying someone	"Bus, train, uber, taxi"	
+in-vehicle	On my way	"I am on my way, can you come outside and help?"	Requesting help		
+in-vehicle	On my way	"I am on my way, can you come to __ and guide me in?"	Requesting help	"train station, bus stop "	
+in-vehicle	On my way	"I am on my way, can you ask __ to come outside and help?"	Requesting help	"Someone, the son, mom, your friend, dad, the daughter, your wife, your husband "	
+in-vehicle	On my way	I am on the way and will be at the __ in __ ; can you ask __ to come and guide me in?	Requesting help	"train station, bus stop -- 5 min, 10 min, 15 min, 20 min, 25 min, 30 min, 35 min, 40 min, 45 min, 50 min, 55 min, 1 hour -- train station, bus stop "	
+in-vehicle	On my way	I am on the way and will be there in __; can you ask __ to come outside and help?	Requesting help	"5 min, 10 min, 15 min, 20 min, 25 min, 30 min, 35 min, 40 min, 45 min, 50 min, 55 min, 1 hour -- Someone, the son, mom, your friend, dad, the daughter, your wife, your husband "	
+in-vehicle	On my way	I am on the way and will be at the __ in __ ; can you come and guide me in?	Requesting help	"train station, bus stop -- 5 min, 10 min, 15 min, 20 min, 25 min, 30 min, 35 min, 40 min, 45 min, 50 min, 55 min, 1 hour  "	
+in-vehicle	On my way	I am on the way and will be there in __; can you come outside and help?	Requesting help	"5 min, 10 min, 15 min, 20 min, 25 min, 30 min, 35 min, 40 min, 45 min, 50 min, 55 min, 1 hour"	
+in-vehicle	On my way	I am on the way and will be at the __ in __ ; can you pick me up?	Requesting help	"train station, bus stop -- 5 min, 10 min, 15 min, 20 min, 25 min, 30 min, 35 min, 40 min, 45 min, 50 min, 55 min, 1 hour  "	
+in-vehicle	On my way	"I am on my way, can you ask __ to come to __ and guide me in?"	Requesting help	"Someone, the son, mom, your friend, dad, the daughter, your wife, your husband – train station, bus stop "	
+in-vehicle	On my way	I am on the way and will be there at __; can you come outside and help?	Requesting help	"1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+in-vehicle	On my way	I am on the way and will be at the __ at __ ; can you come and guide me in?	Requesting help	"train station, bus stop -- 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+in-vehicle	On my way	I am on the way and will be there at __; can you ask __ to come outside and help?	Requesting help	"1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 -- Someone, the son, mom, your friend, dad, the daughter, your wife, your husband "	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+in-vehicle	On my way	I am on the way and will be at the __ at __; can you ask __ to come and guide me in?	Requesting help	"train station, bus stop -- 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 -- Someone, the son, mom, your friend, dad, the daughter, your wife, your husband "	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+in-vehicle	On my way	I am on the way and will be at the __ at __; can you ask __ to pick me up?	Requesting help	"train station, bus stop -- 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 -- Someone, the son, mom, your friend, dad, the daughter, your wife, your husband "	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+in-vehicle	On my way	I am on the way and will be there in __; can you pick me up?	Requesting help	"5 min, 10 min, 15 min, 20 min, 25 min, 30 min, 35 min, 40 min, 45 min, 50 min, 55 min, 1 hour"	
+in-vehicle	On my way	I am on the way and will be there in __; can you ask __ to pick me up?	Requesting help	"5 min, 10 min, 15 min, 20 min, 25 min, 30 min, 35 min, 40 min, 45 min, 50 min, 55 min, 1 hour -- Someone, the son, mom, your friend, dad, the daughter, your wife, your husband "	
+in-vehicle	On my way	I am on the way and will be at the __ at __ ; can you pick me up?	Requesting help	"train station, bus stop -- 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+in-vehicle	On my way	"I am on my way to __, can you pick me up?"	Requesting help	"Train station, bus stop, work, school, campus, library"	
+walking to stations	On my way	I am on the way and will be there at __; can you ask __ to pick me up?	Requesting help	"1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 -- Someone, the son, mom, your friend, dad, the daughter, your wife, your husband "	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+walking to stations	On my way	I am on the way and will be there at __; can you pick me up?	Requesting help	"1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+in-vehicle	On my way	I am on the way to home. Do you have any plan for __?	Scheduling plans	"Tonight, dinner, breakfast, lunch, brunch"	
+in-vehicle	On my way	I am on the way to home. Can we cancel our plan?	Scheduling plans		
+in-vehicle	On my way	I am on the way to __. Do you want to join me?	Scheduling plans	"Cinema, park, restaurant, bar, Starbucks, gym, mall, campus, school, library "	
+in-vehicle	On my way	I am on the way to __. Can we reschedule our plan?	Rescheduling plans	"Home, work, school, campus, library, gym "	
+in-vehicle	On my way	I am still on the way. Can we reschedule our plan?	Rescheduling plans		
+in-vehicle	On my way	I am still on the way to __. Can we reschedule our plan?	Rescheduling plans	"Work, school, gym, Cinema, park, restaurant, bar, Starbucks, mall, campus, library "	
+in-vehicle	On my way	"I am on the way with __, do you want to share the ride?"	Offering help	"Uber, Lyft, taxi, car"	
+in-vehicle	On my way	"I am on the way with my __, do you want us to pick you up?"	Offering help	"friend, family, son, daughter, wife, husband, colleague"	
+in-vehicle	On my way	I am on my way; when do you think you will arrive?	Coordinating with someone		
+in-vehicle	On my way	"I am on the way to the __, when do you think you will arrive?"	Coordinating with someone	"gym, Cinema, park, restaurant, bar, Starbucks, mall, campus, library "	
+in-vehicle	On my way	"I am on the way to the __, where are you?"	Coordinating with someone	"gym, Cinema, park, restaurant, bar, Starbucks, mall, campus, library "	
+in-vehicle	On my way	"I am on the way to the __, have you arrived yet?"	Coordinating with someone	"gym, Cinema, park, restaurant, bar, Starbucks, mall, campus, library "	
+walking to stations	On my way	I am on my way; have you arrived yet?	Coordinating with someone		
+nearby points-of-interest	Get to a location	I got lost	Notifying someone		
+nearby points-of-interest	Get to a location	I am here and need help	Notifying someone		
+walking to stations	Get to a location	I can’t tell exactly where I am 	Notifying someone		
+nearby points-of-interest	Get to a location	I can’t find you	Notifying someone		
+nearby points-of-interest	Get to a location	__ can’t find you	Notifying someone	"The son, mom, my friend, dad, the daughter, my wife, my husband, my colleague, the speaker, our guest"	
+nearby frequently visited locations	Get to a location	I can’t find my way back home 	Notifying someone		
+nearby frequently visited locations	Get to a location	I can’t find my way back; I got lost	Notifying someone		
+nearby frequently visited locations	Get to a location	I am lost in the neighborhood 	Notifying someone		
+nearby points-of-interest	Get to a location	I got lost in *	Notifying someone		
+nearby points-of-interest	Get to a location	I can’t find the __	Notifying someone	"Entrance, restaurant, place, mall, gym, bar, house, exit, building, hotel, room"	
+walking to stations	Get to a location	Heavy __ blocked my way; I am lost	Notifying someone	"Rain, snow"	
+nearby points-of-interest	Get to a location	I have a __	Notifying someone	"Cane, guided dog, cane and guided dog, cane and sunglass"	
+inside points-of-interest	Get to a location	It’s almost __ I can’t find my way back	Notifying someone	"5 min, 10 min, 15 min"	
+nearby points-of-interest	Get to a location	"I got lost, could you please help?"	Requesting help		
+nearby points-of-interest	Get to a location	I am here but can’t find the door. Can someone come out and help me	Requesting help		
+nearby points-of-interest	Get to a location	I can’t find the __; can someone come and help	Requesting help	"Entrance, restaurant, place, mall, gym, bar, house, exit, building, hotel, room"	
+nearby points-of-interest	Get to a location	"I am close, come and find me "	Requesting help		
+nearby points-of-interest	Get to a location	"According to my phone, I am at *, come and find me"	Requesting help		
+inside points-of-interest	Get to a location	I am in the hallway; can somebody come and get me there?	Requesting help		
+nearby points-of-interest	Get to a location	"I have a **, can you come and find me?"	Requesting help		
+nearby points-of-interest	Get to a location	"I am standing at *, can you come and guide me in?"	Requesting help		
+inside points-of-interest	Get to a location	It’s almost __ I can’t find my way back; can you come and help	Requesting help	"5 min, 10 min, 15 min"	
+nearby points-of-interest	Get to a location	I arrived; come outside and get me in	Requesting help		
+nearby points-of-interest	Get to a location	I am lost. Can you ask someone to come and help me?	Requesting help		
+nearby points-of-interest	Get to a location	I am standing next to the __; come and find me 	Requesting help	"Wall, door, tree, car, desk, chair"	
+nearby points-of-interest	Get to a location	I have a __; could you find me?	Requesting help	"Cane, guided dog, cane and guided dog, cane and sunglass"	
+nearby points-of-interest	Get to a location	"I will be there in __, can you come out and find me?"	Requesting help	"5 min, 10 min, 15 min, 20 min, 25 min, 30 min"	
+nearby points-of-interest	Get to a location	"I will be there in __, can you ask someone to come out and find me?"	Requesting help	"5 min, 10 min, 15 min, 20 min, 25 min, 30 min"	
+nearby points-of-interest	Get to a location	"I will be there at __, can you stay out to guide me in?"	Requesting help	"1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+nearby points-of-interest	Get to a location	"__ will be there in __, can you come out and find them?"	Requesting help	"the son, mom, my friend, dad, the daughter, my wife, my husband, the speaker, our guest -- 5 min, 10 min, 15 min, 20 min, 25 min, 30 min"	
+nearby points-of-interest	Get to a location	"__ will be there in __, can you ask someone to come out and find them?"	Requesting help	"the son, mom, my friend, dad, the daughter, my wife, my husband, the speaker, our guest -- 5 min, 10 min, 15 min, 20 min, 25 min, 30 min"	
+nearby points-of-interest	Get to a location	"__ will be there at __, can you stay out to guide them in?"	Requesting help	"the son, mom, my friend, dad, the daughter, my wife, my husband, the speaker, our guest -- 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+inside points-of-interest	Get to a location	When you arrive do you want me to come and guide you in?	Offering help		
+inside points-of-interest	Get to a location	"When you arrive to the __, do you want me to guide you in?"	Offering help	"Bus stop, train station, restaurant, bar, gym, school, work, campus, hospital, building "	
+nearby points-of-interest	Get to a location	Are you here yet? I need help to get to the __	Coordinating with someone	"Place, restaurant, bar, gym, school, work, campus, hospital, building "	
+nearby points-of-interest	Get to a location	Are you here yet? __ needs help to get to the __	Coordinating with someone	"the son, mom, my friend, dad, the daughter, my wife, my husband, the speaker, our guest -- Place, restaurant, bar, gym, school, work, campus, hospital, building "	
+nearby points-of-interest	Get to a location	Where are you? I need help to get to the __	Coordinating with someone	"Place, restaurant, bar, gym, school, work, campus, hospital, building "	
+nearby points-of-interest	Get to a location	Where are you? __ needs help to get to the __	Coordinating with someone	"the son, mom, my friend, dad, the daughter, my wife, my husband, the speaker, our guest -- Place, restaurant, bar, gym, school, work, campus, hospital, building "	
+nearby points-of-interest	Get to a location	What time are you going to arrive? I need help to get to the __	Coordinating with someone	"Bus stop, train station, restaurant, bar, gym, school, work, campus, hospital, building "	
+nearby points-of-interest	Get to a location	What time are you going to arrive? __ needs help to get to the __	Coordinating with someone	"Bus stop, train station, restaurant, bar, gym, school, work, campus, hospital, building -- the son, mom, my friend, dad, the daughter, my wife, my husband, the speaker, our guest"	
+nearby points-of-interest	Get to a location	"Do you want to meet each other outside? So, I can guide you in "	Scheduling plans		
+nearby points-of-interest	Get to a location	"Where do you want to meet each other? So, I can help you to get to the place "	Scheduling plans		
+nearby points-of-interest	Get to a location	"Do you want to meet each other at the __ ? So, I can guide you in "	Scheduling plans	"Bus stop, train station"	
+in-vehicle	Shopping	I am going to shopping 	Notifying someone		
+in-vehicle	Shopping	__ is going to shopping 	Notifying someone	"The son, mom, my friend, dad, the daughter, my wife, my husband, my colleague"	
+in-vehicle	Shopping	"I am going to __, do you want me to pick anything?"	Notifying someone	"Walmart, target, Costco, Starbucks, supermarket, mall"	
+in-vehicle	Shopping	I am going for grocery; do you need anything? 	Notifying someone		
+inside points-of-interest	Shopping	"I am in the *, do you need anything?"	Notifying someone		
+in-vehicle	Shopping	Should I pick anything on the way?	Notifying someone		
+in-vehicle	Shopping	I am going to shopping with my __	Notifying someone	"Friend, family, dog, son, dad, mom, daughter, wife, husband"	
+in-vehicle	Shopping	I am going to shopping by __	Notifying someone	"Myself, bus, train, Uber, Taxi, car, foot"	
+nearby points-of-interest	Shopping	I went to shopping by __	Notifying someone		
+in-vehicle	Shopping	__ is going to shopping by __	Notifying someone	"The son, mom, my friend, dad, the daughter, my wife, my husband, my colleague -- bus, train, Uber, Taxi, car, foot"	
+nearby points-of-interest	Shopping	__ went to shopping by __	Notifying someone		
+waiting at stations	Shopping	After __ I’ll go for shopping 	Notifying someone	"Work, school, lunch, breakfast, dinner, gym"	
+waiting at stations	Shopping	I will go to shopping in __	Notifying someone	"5 min, 10 min, 15 min, 20 min, 25 min, 30 min, 35 min, 40 min, 45 min, 50 min, 55 min, 1 hour, 1 hour 15 min, 1 hour and a half, 2 hours, 2 hours and a half, 3 hours"	
+waiting at stations	Shopping	__ will go to shopping in __	Notifying someone	"The son, mom, my friend, dad, the daughter, my wife, my husband, my colleague -- 5 min, 10 min, 15 min, 20 min, 25 min, 30 min, 35 min, 40 min, 45 min, 50 min, 55 min, 1 hour, 1 hour 15 min, 1 hour and a half, 2 hours, 2 hours and a half, 3 hours"	
+waiting at stations	Shopping	I will go to shopping __	Notifying someone	"Today, today morning, today afternoon, tonight, tomorrow"	
+nearby points-of-interest	Shopping	I just finished shopping; I am returning back	Notifying someone		
+waiting at stations	Shopping	__ will go to shopping __	Notifying someone	"The son, mom, my friend, dad, the daughter, my wife, my husband, my colleague -- Today, today morning, today afternoon, tonight, tomorrow"	
+waiting at stations	Shopping	I will go to shopping at __	Notifying someone	"1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+waiting at stations	Shopping	__ I went shopping	Notifying someone	"Yesterday, today morning, today afternoon, tonight"	
+waiting at stations	Shopping	I will go for shopping on __	Notifying someone	"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday, weekend "	
+waiting at stations	Shopping	__ will go for shopping on __	Notifying someone	"The son, mom, my friend, dad, the daughter, my wife, my husband, my colleague -- Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday, weekend "	
+waiting at stations	Shopping	I asked my __ to go to shopping	Notifying someone	"Friend, parents, son, dad, mom, daughter, wife, husband"	
+waiting at stations	Shopping	I will ask my __ to go to shopping	Notifying someone		
+inside frequently visited locations	Shopping	I am getting ready to go for shopping 	Notifying someone		
+inside frequently visited locations	Shopping	__ is getting ready to go for shopping 	Notifying someone	"The son, mom, my friend, dad, the daughter, my wife, my husband, my colleague"	
+nearby points-of-interest	Shopping	I couldn't buy everything from the grocery	Notifying someone		
+nearby points-of-interest	Shopping	__ couldn't buy everything from the grocery	Notifying someone	"The son, mom, my friend, dad, the daughter, my wife, my husband, my colleague"	
+waiting at stations	Shopping	I will do online shopping 	Notifying someone		
+in-vehicle	Shopping	"I can’t go to shopping today, can someone else go?"	Notifying someone		
+in-vehicle	Shopping	"__ can’t go to shopping today, can someone else go?"	Notifying someone	"The son, mom, my friend, dad, the daughter, my wife, my husband, my colleague"	
+in-vehicle	Shopping	I can’t go to shopping 	Notifying someone		
+in-vehicle	Shopping	__ can’t go to shopping 	Notifying someone	"The son, mom, my friend, dad, the daughter, my wife, my husband, my colleague"	
+nearby points-of-interest	Shopping	Have you arrived at the __ yet?	Coordinating with someone	"Store, mall, Walmart, target, Costco"	
+nearby points-of-interest	Shopping	"I arrived at *, are you coming?"	Coordinating with someone		
+nearby points-of-interest	Shopping	"I arrived at *, when will you arrive?"	Coordinating with someone		
+in-vehicle	Shopping	"I am still on the way, when will you arrive at __?"	Coordinating with someone	"Store, mall, Walmart, target, Costco"	
+walking to stations	Shopping	"I just left the house, when will you arrive at __?"	Coordinating with someone	"Store, mall, Walmart, target, Costco"	
+walking to stations	Shopping	What do you want to buy on the way?	Scheduling plans		
+walking to stations	Shopping	When do you want to go for shopping?	Scheduling plans		
+walking to stations	Shopping	Let’s go to shopping __	Scheduling plans	"Today, today morning, today afternoon, tonight, tomorrow, tomorrow morning, tomorrow afternoon, tomorrow night "	
+in-vehicle	Shopping	"I can’t go to shopping today, can we cancel our plan?"	Scheduling plans		
+in-vehicle	Shopping	Can we make a plan to go to __?	Scheduling plans	"Mall, Walmart, target, Costco"	
+walking to stations	Shopping	Can __ bring me to the __?	Requesting help	"You, someone, dad, mom, the son, your friend, the daughter, your wife, your husband  -- Store, mall, Walmart, target, Costco"	
+walking to stations	Shopping	Can __ bring me to the supermarket?	Requesting help	"You, someone, dad, mom, the son, your friend, the daughter, your wife, your husband "	
+walking to stations	Shopping	Can __ come with me for shopping?	Requesting help		
+nearby points-of-interest	Shopping	I arrived at the store; can you come out and get me in?	Requesting help		
+in-vehicle	Shopping	"I can’t come for shopping, can we reschedule? "	Rescheduling plans		
+in-vehicle	Shopping	"I can’t go to __, can we reschedule? "	Rescheduling plans	"Store, mall, Walmart, target, Costco"	
+nearby points-of-interest	Shopping	"Will __ be able to come for shopping? If not, we can reschedule."	Rescheduling plans	"You, dad, mom, the son, your friend, the daughter, your wife, your husband "	
+in-vehicle	Shopping	Let me know if you need a ride after shopping 	offering help		
+in-vehicle	Shopping	Let me know if __ needs a ride after shopping 	offering help	"dad, mom, the son, your friend, the daughter, your wife, your husband "	
+in-vehicle	Shopping	Let me know if you need a ride to go to shopping 	offering help		
+in-vehicle	Shopping	Let me know if you want me to guide you in once you arrive to the store	offering help		
+in-vehicle	Shopping	Let me know if __ needs a ride to go to shopping 	offering help	"dad, mom, the son, your friend, the daughter, your wife, your husband "	
+walking to stations	Shopping	Remember today at __ I will see you at the __ of the store	Reminding someone	"1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 – entrance, front door, exit"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+walking to stations	Shopping	Remember __ I am going to shopping 	Reminding someone	"Today, today morning, today afternoon, tonight, tomorrow, tomorrow morning, tomorrow afternoon, tomorrow night "	
+walking to stations	Shopping	"Remember __,  __is  going to shopping "	Reminding someone	"Today, today morning, today afternoon, tonight, tomorrow, tomorrow morning, tomorrow afternoon, tomorrow night -- dad, mom, the son, your friend, the daughter, your wife, your husband "	
+walking to stations	Shopping	Remember on __ I will go to shopping 	Reminding someone	"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday, weekend "	
+walking to stations	Shopping	"Remember on __, __ will go to shopping "	Reminding someone	"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday, weekend -- dad, mom, the son, your friend, the daughter, your wife, your husband "	
+walking to stations	Shopping	Remember today at __ I will see you at the __ of the mall	Reminding someone	"1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 – entrance, front door, exit, first floor, second floor"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+walking to stations	Shopping	Remember today for shopping we will meet each other at __	Reminding someone	"bus stop, train station, my place, your place, Store, mall, Walmart, target, Costco, work, school"	
+in-vehicle	Pick up	I am on my way to pick you up	Notifying someone		
+in-vehicle	Pick up	I will pick up the __ on the way	Notifying someone	"Kids, package, food, car, dog, bag, mail, luggage "	
+in-vehicle	Pick up	I picked up the __ on the way 	Notifying someone		
+in-vehicle	Pick up	I will pick up the __ at __	Notifying someone	"Kids, package, food, car, dog, bag, mail, luggage -- 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+in-vehicle	Pick up	I picked up the __ at __	Notifying someone		
+in-vehicle	Pick up	I will pick up the __ in __	Notifying someone	"Kids, package, food, car, dog, bag, mail, luggage -- 5 min, 10 min, 15 min, 20 min, 25 min, 30 min, 35 min, 40 min, 45 min, 50 min, 55 min, an hour"	
+nearby points-of-interest	Pick up	__ will pick me up in __	Notifying someone	"mom, dad, your wife, your husband, the son, the daughter, my friend, my colleague -- 5 min, 10 min, 15 min, 20 min, 25 min, 30 min"	
+nearby points-of-interest	Pick up	__ will pick you up in __	Notifying someone		
+nearby points-of-interest	Pick up	__ will pick me up at __	Notifying someone	"mom, dad, your wife, your husband, the son, the daughter, my friend, my colleague -- 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+nearby points-of-interest	Pick up	__ will pick you up at __	Notifying someone		
+nearby points-of-interest	Pick up	__ will pick me up for __	Notifying someone	"mom, dad, my wife, my husband, the son, the daughter, my friend, my colleague -- today, tomorrow"	
+nearby points-of-interest	Pick up	__ will pick you up for __	Notifying someone		
+nearby points-of-interest	Pick up	__ will pick me up on __	Notifying someone	"mom, dad, my wife, my husband, the son, the daughter, my friend, my colleague -- Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday "	
+nearby points-of-interest	Pick up	__ will pick you up on __	Notifying someone		
+nearby points-of-interest	Pick up	Pick me up from __ in __	Notifying someone	"Work, school, mall, gym, restaurant, bar, store, Starbucks -- 5 min, 10 min, 15 min, 20 min, 25 min, 30 min, 35 min, 40 min, 45 min, 50 min, 55 min, an hour"	
+nearby points-of-interest	Pick up	Pick me up from __ at __	Notifying someone	"Work, school, mall, gym, restaurant, bar, store, Starbucks -- 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+waiting at stations	Pick up	You don’t have to pick me up __	Notifying someone	"Right now, later, today, tomorrow"	
+waiting at stations	Pick up	You don’t have to pick me up on __	Notifying someone	"Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday "	
+inside frequently visited locations	Pick up	I need to be picked up	Notifying someone		
+nearby points-of-interest	Pick up	__ needs to be picked up	Notifying someone	"dad, mom, the son, your friend, the daughter, my wife, my husband "	
+walking to stations	Pick up	"I will reach the station in __, come and pick me up"	Notifying someone	"5 min, 10 min, 15 min, 20 min, 25 min, 30 min"	
+walking to stations	Pick up	"I will reach the station at __, come and pick me up"	Notifying someone	"1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+inside points-of-interest	Pick up	I’ll be coming out in a few minutes. You can come and pick me up	Notifying someone		
+walking to stations	Pick up	Pick me up from the station in __	Notifying someone	"5 min, 10 min, 15 min, 20 min, 25 min, 30 min, 35 min, 40 min, 45 min, 50 min, 55 min, an hour"	
+walking to stations	Pick up	Pick me up from the station at  __	Notifying someone	"1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+in-vehicle	Pick up	I picked up __	Notifying someone	"mom, dad, my wife, my husband, the son, the daughter, my friend"	
+in-vehicle	Pick up	I will pick up __	Notifying someone		
+in-vehicle	Pick up	I picked up __ at __	Notifying someone	"mom, dad, my wife, my husband, the son, the daughter, my friend -- 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+nearby points-of-interest	Pick up	I will pick up __ at __	Notifying someone		
+nearby points-of-interest	Pick up	I will pick __ in __	Notifying someone	"mom, dad, my wife, my husband, the son, the daughter, my friend -- 5 min, 10 min, 15 min, 20 min, 25 min, 30 min, 35 min, 40 min, 45 min, 50 min, 55 min, an hour"	
+nearby points-of-interest	Pick up	I will pick you up in __	Notifying someone	"5 min, 10 min, 15 min, 20 min, 25 min, 30 min, 35 min, 40 min, 45 min, 50 min, 55 min, an hour"	
+nearby points-of-interest	Pick up	I will pick you up at __	Notifying someone	"1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+nearby points-of-interest	Pick up	I will pick you up in __	Notifying someone	"5 min, 10 min, 15 min, 20 min, 25 min, 30 min"	
+waiting at stations	Pick up	I can’t pick you up __	Notifying someone	"Now, today, tomorrow "	
+walking to stations	Pick up	I can’t pick you up on __	Notifying someone	"Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday "	
+nearby points-of-interest	Pick up	__ I will pick you up 	Notifying someone	"today, later today, tomorrow "	
+nearby points-of-interest	Pick up	Can I ride home with you? 	Requesting help		
+nearby points-of-interest	Pick up	I need a ride 	Requesting help		
+nearby points-of-interest	Pick up	I need a ride __	Requesting help	"Right now, later, today, tomorrow"	
+nearby points-of-interest	Pick up	Can you pick me up?	Requesting help		
+nearby points-of-interest	Pick up	Can you pick me up from * ?	Requesting help		
+nearby points-of-interest	Pick up	Can you pick me up from * in __ ?	Requesting help	"5 min, 10 min, 15 min, 20 min, 25 min, 30 min"	
+nearby points-of-interest	Pick up	Can you pick me up from * at __ ?	Requesting help	"1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+nearby points-of-interest	Pick up	Can you pick up __ on the way?	Requesting help	"mom, dad, my wife, my husband, the son, the daughter, my friend"	
+in-vehicle	Pick up	Can you pick something for __ ?	Requesting help	"Breakfast, lunch, dinner "	
+in-vehicle	Pick up	Can you pick something on the way?	Requesting help		
+in-vehicle	Pick up	Do you want me to pick you up from *?	Offering help		
+in-vehicle	Pick up	Do you want me to pick you up from __?	Offering help	"Work, school, mall, gym, restaurant, bar, store, Starbucks "	
+in-vehicle	Pick up	"I am on my way by __, do you want to share ride?"	Offering help	"Uber, Lyft, Taxi, car"	
+in-vehicle	Pick up	"I am on my way with my __, do you need a ride?"	Offering help	"Friend, family, mom, dad, wife, husband, son, daughter, friend"	
+in-vehicle	Pick up	Do you want me to pick up __ on the way?	Offering help	"Kids, package, food, car, dog, bag, mail, luggage "	
+nearby points-of-interest	Pick up	Do you want me to pick something for __ ?	Offering help	"Breakfast, lunch, dinner "	
+nearby points-of-interest	Pick up	Do you want me to pick something __ ?	Offering help	"Today, later today, on the way"	
+nearby points-of-interest	Pick up	Where are you? I need a ride	Coordinating with someone		
+nearby points-of-interest	Pick up	where are you? I am waiting for you to pick me up	Coordinating with someone		
+nearby points-of-interest	Pick up	Where are you? __ is waiting for you to be picked up	Coordinating with someone	"mom, dad, your wife, your husband, the son, the daughter, my friend, my colleague "	
+nearby points-of-interest	Pick up	"I am at __ and need a ride, where are you?"	Coordinating with someone	"Work, school, mall, gym, restaurant, bar, store, Starbucks "	
+nearby points-of-interest	Pick up	"I am at __ and need a ride, what time are you going to arrive?"	Coordinating with someone	"Work, school, mall, gym, restaurant, bar, store, Starbucks "	
+nearby points-of-interest	Pick up	What time are you going to arrive? I need a ride	Coordinating with someone		
+nearby points-of-interest	Pick up	What time are you going to arrive? __ needs a ride	Coordinating with someone	"mom, dad, your wife, your husband, the son, the daughter, my friend, my colleague "	
+nearby points-of-interest	Pick up	"I am at * and need a ride, what time are you going to arrive?"	Coordinating with someone		
+nearby points-of-interest	Pick up	"I am at * and need a ride, what time are you going to arrive?"	Coordinating with someone		
+nearby points-of-interest	Pick up	Who will pick me up from __ ?	Scheduling plans	"Work, school, class, mall restaurant, gym, Starbucks, supermarket"	
+nearby points-of-interest	Pick up	Who is going to pick me up from * ?	Scheduling plans		
+nearby points-of-interest	Pick up	When do you want to pick up __ from __?	Scheduling plans	"mom, dad, your wife, your husband, the son, the daughter, my friend, my colleague --  Work, school, mall, gym, restaurant, bar, store, Starbucks "	
+nearby points-of-interest	Pick up	What time do you want me to pick you up?	Scheduling plans		
+nearby points-of-interest	Pick up	When do you want to pick me up from __?	Scheduling plans	"Work, school, mall, gym, restaurant, bar, store, Starbucks "	
+in-vehicle	Pick up	"Sorry, I can’t give you a ride __"	Scheduling plans	"Today, tomorrow "	
+in-vehicle	Pick up	"Sorry, I can’t give you a ride on __"	Scheduling plans	"Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday "	
+in-vehicle	Pick up	"Sorry, __ I can’t give ride to __"	Scheduling plans	"Today, tomorrow -- mom, dad, your wife, your husband, the son, the daughter, my friend, my colleague "	
+in-vehicle	Pick up	"Sorry, I can’t give ride to __ on __"	Scheduling plans	"mom, dad, your wife, your husband, the son, the daughter, my friend, my colleague -- Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday "	
+walking to stations	Pick up	"I can’t come at __, can I pick you up at __ instead?"	Rescheduling plans	"1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 -- 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55 -- 05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+walking to stations	Pick up	"I can’t come at __, can I ask __ to pick you up instead?"	Rescheduling plans	"mom, dad, my wife, my husband, the son, the daughter, my friend, my colleague "	
+waiting at stations	Pick up	Remember I will be at the front door at __ to pick you up	Reminding someone	"1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+waiting at stations	Pick up	Don’t forget tomorrow I will pick you up at __	Reminding someone	"1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+walking to stations	Pick up	Don’t forget to pick me up at __	Reminding someone	"1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+waiting at stations	Pick up	Don’t forget to pick me up on __ 	Reminding someone	"Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday"	
+waiting at stations	Pick up	Don’t forget to pick me up on __ at __	Reminding someone	"Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday -- 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+waiting at stations	Pick up	Don’t forget to pick up __	Reminding someone	"The kids, the package, the food, the car, the dog, the bag, the mail, the luggage, mom, dad, my wife, my husband, the son, the daughter, my friend, my colleague "	
+waiting at stations	Pick up	Don’t forget to pick up __ at __	Reminding someone	"The kids, the package, the food, the car, the dog, the bag, the mail, the luggage, mom, dad, my wife, my husband, the son, the daughter, my friend, my colleague -- 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+waiting at stations	Pick up	Don’t forget on __ I will pick you up at __	Reminding someone	"Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday -- 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+walking to stations	Meeting	There will be a meeting at __	Notifying someone	"1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+walking to stations	Meeting	There will be a meeting in __	Notifying someone	"5 min, 10 min, 15 min, 20 min, 25 min, 30 min, 35 min, 40 min, 45 min, 50 min, 55 min, an hour"	
+inside frequently visited locations	Meeting	I am in a meeting 	Notifying someone		
+inside frequently visited locations	Meeting	__ is in a meeting 	Notifying someone	"mom, dad, my wife, my husband, the son, the daughter, my friend, my colleague "	
+inside frequently visited locations	Meeting	I am in a meeting; I am not going to be back till __	Notifying someone	"1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+nearby frequently visited locations	Meeting	I made it to the meeting 	Notifying someone		
+waiting at stations	Meeting	We will have a meeting __	Notifying someone	"Soon, today, today morning, today afternoon, tonight, later today, Tomorrow, tomorrow morning, tomorrow afternoon, tomorrow night "	
+waiting at stations	Meeting	__ will have a meeting __	Notifying someone	"mom, dad, my wife, my husband, the son, the daughter, my friend, my colleague -- Soon, today, today morning, today afternoon, tonight, later today, Tomorrow, tomorrow morning, tomorrow afternoon, tomorrow night "	
+waiting at stations	Meeting	We will have a meeting on __ at __	Notifying someone	"Monday, Tuesday, Wednesday, Thursday, Friday – 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+waiting at stations	Meeting	__ I have a meeting with __	Notifying someone	"Today, Tomorrow – colleagues, manager, faculties, students"	
+waiting at stations	Meeting	When today’s meeting will be held?	Coordinating with someone		
+waiting at stations	Meeting	What time the meeting on __ will be held?	Coordinating with someone	"Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday"	
+in-vehicle	Meeting	Are you going to be at the meeting?	Coordinating with someone		
+in-vehicle	Meeting	Who will be in the meeting?	Coordinating with someone		
+in-vehicle	Meeting	Our meeting is today at __; let me know if you can attend	Coordinating with someone	"1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+in-vehicle	Meeting	Where __’s meeting will be held?	Coordinating with someone	"Today, tomorrow "	
+inside frequently visited locations	Meeting	"The meeting will start at __, when are you supposed to arrive?"	Coordinating with someone	"1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+inside frequently visited locations	Meeting	"The meeting will start at __, where are you?"	Coordinating with someone		
+inside frequently visited locations	Meeting	"We have a meeting in __, when are you supposed to arrive?"	Coordinating with someone	"5 min, 10 min, 15 min, 20 min, 25 min, 30 min"	
+inside frequently visited locations	Meeting	"We have a meeting in __, where are you?"	Coordinating with someone		
+waiting at stations	Meeting	Where the meeting on __ will be held?	Coordinating with someone	"Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday"	
+inside points-of-interest	Meeting	The meeting on __ is canceled 	Scheduling plans	"Monday, Tuesday, Wednesday, Thursday, Friday "	
+inside points-of-interest	Meeting	__’s meeting is canceled 	Scheduling plans	"Today, tomorrow "	
+inside points-of-interest	Meeting	The meeting at __ is canceled 	Scheduling plans	"1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+waiting at stations	Meeting	Let’s set up a meeting 	Scheduling plans		
+waiting at stations	Meeting	When do you want to have a meeting for the __?	Scheduling plans	"Project, team, group, plan, proposal, budget, review, board, company, program"	
+waiting at stations	Meeting	Let’s set up a meeting with __	Scheduling plans	"colleagues, manager, faculties, students"	
+waiting at stations	Meeting	Let’s set up a meeting for __	Scheduling plans	"Today, tomorrow, this week, Monday, Tuesday, Wednesday, Thursday, Friday "	
+waiting at stations	Meeting	Let’s set up a meeting for __ with __	Scheduling plans	"Today, tomorrow, this week, Monday, Tuesday, Wednesday, Thursday, Friday -- colleagues, manager, faculties, students"	
+walking to stations	Meeting	Don’t forget; we have a group meeting __	Reminding someone	"Soon, today, today morning, today afternoon, tonight, later today, Tomorrow, tomorrow morning, tomorrow afternoon, tomorrow night "	
+walking to stations	Meeting	Is the meeting today at __?	Reminding someone	"1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+walking to stations	Meeting	Don’t forget; we have a meeting  __ at __	Reminding someone	"Today, Tomorrow – 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+walking to stations	Meeting	"Remember, we have a meeting in about __"	Reminding someone	"5 min, 10 min, 15 min, 20 min, 25 min, 30 min"	
+walking to stations	Meeting	Don’t forget; we have a meeting  on __ at __	Reminding someone	"Monday, Tuesday, Wednesday, Thursday, Friday – 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+waiting at stations	Meeting	Is the meeting __ at __?	Reminding someone	"today, today morning, today afternoon, tonight, later today, Tomorrow, tomorrow morning, tomorrow afternoon, tomorrow night -- 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+waiting at stations	Meeting	Is the meeting on __ ?	Reminding someone	"Monday, Tuesday, Wednesday, Thursday, Friday "	
+in-vehicle	Meeting	"The meeting on __ is canceled, can we reschedule? "	Rescheduling plans	"Monday, Tuesday, Wednesday, Thursday, Friday "	
+in-vehicle	Meeting	"__’s meeting is canceled,  can we reschedule?"	Rescheduling plans	"Today, tomorrow "	
+in-vehicle	Meeting	"The meeting at __ is canceled, can we reschedule?"	Rescheduling plans	"1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+in-vehicle	Meeting	"I can’t attend __’s meeting, can we reschedule?"	Rescheduling plans	"Today, tomorrow "	
+in-vehicle	Meeting	"I can’t attend the meeting on __, can we reschedule?"	Rescheduling plans	"Monday, Tuesday, Wednesday, Thursday, Friday "	
+in-vehicle	Meeting	"I can’t attend the meeting at __, can we reschedule? "	Rescheduling plans	"1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+waiting at stations	Meeting	I need a __ for __’s meeting 	Requesting help	"Ride, companion -- Today, tomorrow, Monday, Tuesday, Wednesday, Thursday, Friday "	
+waiting at stations	Meeting	"My meeting starts at __, I need a ride "	Requesting help	"1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+waiting at stations	Meeting	"My meeting starts in __, I need a ride "	Requesting help	"5 min, 10 min, 15 min, 20 min, 25 min, 30 min, 35 min, 40 min, 45 min, 50 min, 55 min, an hour"	
+waiting at stations	Meeting	"I have a meeting __, can you ask __ to give me a ride?"	Requesting help	"Today, tomorrow, on Monday, on Tuesday, on Wednesday, on Thursday, on Friday -- Mom, someone, dad, your wife, your husband, the daughter, the son, your friend "	
+nearby points-of-interest	Meeting	"I am here for our meeting, can you come out and guide me in?"	Requesting help		
+nearby points-of-interest	Meeting	"I am staying in the __ for our meeting, can you come out and guide me in?"	Requesting help	"Bus stop, train station "	
+nearby points-of-interest	Meeting	"I am here for our meeting, can you ask __ to come out and guide me in?"	Requesting help	"someone, a colleague, a student, a faculty, your friend "	
+nearby points-of-interest	Meeting	"I am staying in the __ for our meeting, can you ask __ to come out and guide me in?"	Requesting help	"Bus stop, train station -- someone, a colleague, a student, a faculty, your friend "	
+in-vehicle	Meeting	Do you want me to share the ride for today’s meeting?	Offering help		
+nearby points-of-interest	Meeting	I arrived for our meeting. Do you want me to come and guide you in?	Offering help		
+in-vehicle	Meeting	I am on the way for our meeting; do you need a ride?	Offering help		
+walking to stations	Appointment	Today I have an appointment with my __	Notifying someone	"Doctor, friends, specialist, colleagues "	
+walking to stations	Appointment	__ I have an appointment with my __	Notifying someone	"Today, later today, today afternoon, tonight, tomorrow, tomorrow morning, tomorrow afternoon, tomorrow night -- Doctor, friends, specialist, colleagues "	
+walking to stations	Appointment	__ I have an appointment with my __ at __	Notifying someone	"Today, later today, today afternoon, tonight, tomorrow, tomorrow morning, tomorrow afternoon, tomorrow night -- Doctor, friends, specialist, colleagues – home, their place, school, work, restaurant, bar, Starbucks, clinic"	
+waiting at stations	Appointment	At __ I have an appointment with my __	Notifying someone	"1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 -- Doctor, friends, specialist, colleagues "	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+waiting at stations	Appointment	__ has an appointment with the __	Notifying someone	"Mom, dad, my wife, my husband, my daughter, my son, my friend -- Doctor, friends, specialist, colleagues "	
+waiting at stations	Appointment	I have an appointment with my __ in __	Notifying someone	"Doctor, friends, specialist, colleagues -- 5 min, 10 min, 15 min, 20 min, 25 min, 30 min, 35 min, 40 min, 45 min, 50 min, 55 min, an hour"	
+waiting at stations	Appointment	Today I will have __ with my __	Notifying someone	"Lunch, breakfast, dinner, brunch, coffee, gathering, drinks, meal – friends, colleagues, family  "	
+walking to stations	Appointment	__ I will have __ with my __	Notifying someone	"Today, later today, today afternoon, tonight, tomorrow, tomorrow morning, tomorrow afternoon, tomorrow night -- Lunch, breakfast, dinner, brunch, coffee, gathering, drinks, meal – friends, colleagues, family  "	
+waiting at stations	Appointment	__’s appointment is canceled 	Scheduling plans	"Today, today afternoon, tonight, tomorrow, tomorrow morning, tomorrow afternoon, tomorrow night "	
+walking to stations	Appointment	We can meet at __ for our appointment 	Scheduling plans	"1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+waiting at stations	Appointment	The appointment at __ is canceled 	Scheduling plans	"1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+waiting at stations	Appointment	Where do you want to meet for our appointment?	Scheduling plans		
+waiting at stations	Appointment	When do you want to meet for our appointment?	Scheduling plans		
+nearby frequently visited locations	Appointment	Can we get together?	Scheduling plans		
+inside frequently visited locations	Appointment	__ at __ let’s meet at __	Scheduling plans	"Today, today afternoon, tonight, tomorrow, tomorrow morning, tomorrow afternoon, tomorrow night -- 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 – work, home, Starbucks, mall, bar, restaurant, bus stop, train station"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+inside frequently visited locations	Appointment	See you __ morning for__	Reminding someone	"Today, tomorrow -- Breakfast, coffee, drink, gathering, desert, meal"	
+inside frequently visited locations	Appointment	Are we meeting today at __?	Reminding someone	"1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+walking to stations	Appointment	See you __ for __	Reminding someone	"Tonight, tomorrow night -- Dinner, coffee, drink, gathering, meal"	
+walking to stations	Appointment	See you __ afternoon for __ 	Reminding someone	"Today, tomorrow -- Lunch, coffee, drink, gathering, meal"	
+walking to stations	Appointment	See you at __ for __	Reminding someone	"1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 -- breakfast, brunch, lunch, dinner"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+waiting at stations	Appointment	Don’t forget we have an appointment 	Reminding someone		
+waiting at stations	Appointment	Are we meeting today at __?	Reminding someone	"1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+waiting at stations	Appointment	Are we meeting today?	Reminding someone		
+in-vehicle	Appointment	"__’s appointment is canceled, can we reschedule?"	Rescheduling plans	"Today, today afternoon, tonight, tomorrow, tomorrow morning, tomorrow afternoon, tomorrow night "	
+in-vehicle	Appointment	"I can’t make it __ for our appointment, can we reschedule?"	Rescheduling plans	"Today, today afternoon, tonight, tomorrow, tomorrow morning, tomorrow afternoon, tomorrow night "	
+in-vehicle	Appointment	"The appointment at __ is canceled, can we reschedule? "	Rescheduling plans	"1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+in-vehicle	Appointment	"My __ can’t make it today, can we reschedule our appointment?"	Rescheduling plans	"Mom, dad, wife, husband, daughter, son, friend "	
+nearby points-of-interest	Appointment	When are you going to arrive for our appointment?	Coordinating with someone		
+nearby points-of-interest	Appointment	"I am already here for our appointment, where are you?"	Coordinating with someone		
+waiting at stations	Appointment	When is today’s appointment?	Coordinating with someone		
+waiting at stations	Appointment	What time are we supposed to meet for __’s appointment?	Coordinating with someone	"Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday"	
+nearby points-of-interest	Appointment	Will you be able to come for our appointment?	Coordinating with someone		
+nearby points-of-interest	Appointment	"For today’s appointment, how many people will come?"	Coordinating with someone		
+in-vehicle	Appointment	What time are we supposed to meet for __’s appointment?	Coordinating with someone	"Today, tomorrow, Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday"	
+in-vehicle	Appointment	Who is going to be there for today’s appointment?	Coordinating with someone		
+waiting at stations	Appointment	I need a ride for today’s appointment 	Requesting help		
+waiting at stations	Appointment	"__, I have an appointment. Can you pick me up at __?"	Requesting help	"Today, tomorrow -- 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+waiting at stations	Appointment	On __ I have an appointment; can you pick me up at __?	Requesting help	"Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday -- 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+waiting at stations	Appointment	On __ I have an appointment; can you ask __  to pick me up at __?	Requesting help	"Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday -- Mom, someone, dad, your wife, your husband, the daughter, the son, your friend -- 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+waiting at stations	Appointment	I have an appointment at __; can you give me a ride?	Requesting help	"1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+waiting at stations	Appointment	I have an appointment at __; can you ask __ for a ride?	Requesting help	"1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 -- Mom, someone, dad, your wife, your husband, the daughter, the son, your friend "	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+nearby points-of-interest	Appointment	"I am here for our appointment, can you come out and find me?"	Requesting help		
+nearby points-of-interest	Appointment	"I am at __ for our appointment, can you come and guide me in?"	Requesting help	"Bus stop, train station"	
+nearby points-of-interest	Appointment	"I am here for our appointment, can you ask __ to come out and find me?"	Requesting help	"Mom, someone, dad, your wife, your husband, the daughter, the son, your friend "	
+nearby points-of-interest	Appointment	"I am at __ for our appointment, can you ask __ to come and guide me in?"	Requesting help	"Bus stop, train station -- Mom, someone, dad, your wife, your husband, the daughter, the son, your friend "	
+in-vehicle	Appointment	Do you want me to share the ride for today’s appointment?	Offering help		
+inside points-of-interest	Appointment	I am here for our appointment. Do you want me to come out and guide you in?	Offering help		
+in-vehicle	Appointment	We are on the way for our appointment; do you need a ride?	Offering help		
+in-vehicle	Phone call	Please call me in __	Notifying someone	"5 min, 10 min, 15 min, 20 min, 25 min, 30 min, 35 min, 40 min, 45 min, 50 min, 55 min, 1 hour"	
+in-vehicle	Phone call	Please call me at __	Notifying someone	"1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+inside frequently visited locations	Phone call	__ I have a phone call at __	Notifying someone	"Today, later today, today mooring, today afternoon, tonight, tomorrow, tomorrow morning, tomorrow afternoon, tomorrow night -- 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+inside frequently visited locations	Phone call	I have a phone call in __	Notifying someone	"5 min, 10 min, 15 min, 20 min, 25 min, 30 min, 35 min, 40 min, 45 min, 50 min, 55 min, 1 hour"	
+inside frequently visited locations	Phone call	__ I have a phone call for my __ at __	Notifying someone	"Today, later today, today mooring, today afternoon, tonight, tomorrow, tomorrow morning, tomorrow afternoon, tomorrow night -- interview, daughter, son, mother, father, wife, husband, boss, work, friend -- 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+inside frequently visited locations	Phone call	__ I have a phone call with my __ at __	Notifying someone	"Today, later today, today mooring, today afternoon, tonight, tomorrow, tomorrow morning, tomorrow afternoon, tomorrow night -- daughter, son, mother, father, wife, husband, boss, friend -- 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+inside frequently visited locations	Phone call	I have a phone call for my __ in __	Notifying someone	"interview, daughter, son, mother, father, wife, husband, boss, work, friend -- 5 min, 10 min, 15 min, 20 min, 25 min, 30 min, 35 min, 40 min, 45 min, 50 min, 55 min, 1 hour"	
+inside frequently visited locations	Phone call	I have a phone call with my __ in __	Notifying someone	"daughter, son, mother, father, wife, husband, boss, friend -- 5 min, 10 min, 15 min, 20 min, 25 min, 30 min, 35 min, 40 min, 45 min, 50 min, 55 min, 1 hour"	
+waiting at stations	Phone call	Will you be able to call __ ?	Coordinating with someone	"Mom, dad, your family, the son, the daughter, your wife, your husband, your colleague, your friend"	
+nearby points-of-interest	Phone call	Can I talk to you on the phone?	Coordinating with someone		
+nearby points-of-interest	Phone call	Shall I call for a moment? 	Coordinating with someone		
+nearby points-of-interest	Phone call	Did you call __ ?	Coordinating with someone	"Mom, dad, your family, the son, the daughter, your wife, your husband, your colleague, your friend"	
+nearby points-of-interest	Phone call	Did you call me?	Coordinating with someone		
+nearby points-of-interest	Phone call	Did __ call you?	Coordinating with someone	"Mom, dad, your family, the son, the daughter, your wife, your husband, your colleague, your friend"	
+nearby points-of-interest	Phone call	Did you receive a call from __ ?	Coordinating with someone	"Work, hospital, doctor, school"	
+nearby points-of-interest	Phone call	Did you return __’s call?	Coordinating with someone	"Mom, dad, your family, the son, the daughter, your wife, your husband, your colleague, your friend "	
+walking to stations	Phone call	Can I call you __ ?	Coordinating with someone	"Today, later today, today afternoon, tonight, tomorrow, tomorrow morning, tomorrow afternoon, tomorrow night "	
+waiting at stations	Phone call	What time are you going to call me?	Coordinating with someone		
+waiting at stations	Phone call	Can we set up a call?	Scheduling plans		
+waiting at stations	Phone call	"I need to talk to you, when is a good time?"	Scheduling plans		
+waiting at stations	Phone call	What time are you going to call __?	Scheduling plans	"Mom, dad, your family, the son, the daughter, your wife, your husband, your colleague, your friend"	
+waiting at stations	Phone call	What time should I call you __?	Scheduling plans	"Today, tomorrow "	
+waiting at stations	Phone call	What time should I call on __?	Scheduling plans	"Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday "	
+waiting at stations	Phone call	What time __ will call you?	Scheduling plans	"Mom, dad, your family, the son, the daughter, your wife, your husband, your colleague, your friend"	
+waiting at stations	Phone call	I will call you in __	Scheduling plans	"5 min, 10 min, 15 min, 20 min, 25 min, 30 min, 35 min, 40 min, 45 min, 50 min, 55 min, 1 hour"	
+waiting at stations	Phone call	I will call you at __	Scheduling plans	"1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+waiting at stations	Phone call	__ will call you in __	Scheduling plans	"Mom, dad, your family, the son, the daughter, your wife, your husband, your colleague, your friend -- 5 min, 10 min, 15 min, 20 min, 25 min, 30 min, 35 min, 40 min, 45 min, 50 min, 55 min, 1 hour"	
+waiting at stations	Phone call	__ will call you at __	Scheduling plans	"Mom, dad, your family, the son, the daughter, your wife, your husband, your colleague, your friend -- 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+nearby points-of-interest	Phone call	"When you get a chance, can you call me?"	Scheduling plans		
+nearby points-of-interest	Phone call	I will call you after __ 	Scheduling plans	"Work, shopping, meeting, school, breakfast, lunch, dinner, class"	
+nearby points-of-interest	Phone call	__ will call you after __	Scheduling plans	"Mom, dad, your family, the son, the daughter, your wife, your husband, your colleague, your friend -- Work shopping, meeting, school, breakfast, lunch, dinner, class"	
+nearby points-of-interest	Phone call	I will call you between __ and __	Scheduling plans	"1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 -- 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 "	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55 -- 05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+nearby points-of-interest	Phone call	I will call you after __	Scheduling plans	"1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+nearby points-of-interest	Phone call	__ will call you after __	Scheduling plans	"Mom, dad, your family, the son, the daughter, your wife, your husband, your colleague, your friend  --  1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+in-vehicle	Phone call	Can I call you at __ ?	Scheduling plans	"1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+in-vehicle	Phone call	Can I call you in __ ?	Scheduling plans	"5 min, 10 min, 15 min, 20 min, 25 min, 30 min, 35 min, 40 min, 45 min, 50 min, 55 min, 1 hour"	
+waiting at stations	Phone call	Can we cancel our __’s call?	Scheduling plans	"Today, tomorrow "	
+waiting at stations	Phone call	Can we reschedule our __’s call?	Rescheduling plans	"Today, tomorrow "	
+waiting at stations	Phone call	Can we reschedule our call at __?	Rescheduling plans	"1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+waiting at stations	Phone call	Can we reschedule our call with __?	Rescheduling plans	"Mom, dad, your family, the son, the daughter, your wife, your husband, your colleague, the friend "	
+waiting at stations	Phone call	Remember that we have a phone call __	Reminding someone	"Today, later today, today afternoon, tonight, tomorrow, tomorrow morning, tomorrow afternoon, tomorrow night "	
+waiting at stations	Phone call	Remember that we have a phone call at __	Reminding someone	"1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+waiting at stations	Phone call	Do we have a call at __?	Reminding someone	"1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+waiting at stations	Phone call	Do we have a phone call on __?	Reminding someone	"Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday "	
+waiting at stations	Phone call	Remember that we have a phone call in __	Reminding someone	"5 min, 10 min, 15 min, 20 min, 25 min, 30 min, 35 min, 40 min, 45 min, 50 min, 55 min, 1 hour"	
+waiting at stations	Not able to talk	"Let me get back to you later, I am in the middle of commute "	Notifying someone		
+waiting at stations	Not able to talk	I will call you when I can	Notifying someone		
+in-vehicle	Not able to talk	I am at Uber; I will call you later 	Notifying someone		
+waiting at stations	Not able to talk	I can’t talk right now 	Notifying someone		
+inside frequently visited locations	Not able to talk	I am in a __; I will call back soon	Notifying someone	"Meeting, hurry, class, restaurant, mall, gym, car, bus, train, bar, store, hospital, conference, crowd, cinema"	
+inside frequently visited locations	Not able to talk	I am in a __; can I call you later? 	Notifying someone	"Meeting, hurry, class, restaurant, mall, gym, car, bus, train, bar, store, hospital, conference, crowd, cinema"	
+waiting at stations	Not able to talk	I can't talk right now; can I call in __ ?	Notifying someone	"5 min, 10 min, 15 min, 20 min, 25 min, 30 min, 35 min, 40 min, 45 min, 50 min, 55 min, 1 hour"	
+waiting at stations	Not able to talk	I can't talk right now; can I call at __ ?	Notifying someone	"1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+waiting at stations	Not able to talk	I can't talk right now; I will call in __ 	Notifying someone	"5 min, 10 min, 15 min, 20 min, 25 min, 30 min, 35 min, 40 min, 45 min, 50 min, 55 min, 1 hour"	
+waiting at stations	Not able to talk	I can't talk right now; I will call at __ 	Notifying someone	"1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+inside frequently visited locations	Not able to talk	I am in the __; I will call you once I am done	Notifying someone	"meeting, class, library, lab, shop, store"	
+inside frequently visited locations	Not able to talk	I am busy now; I will call you __	Notifying someone	"Later today, today afternoon, tonight, tomorrow, tomorrow morning, tomorrow afternoon, tomorrow night "	
+inside frequently visited locations	Not able to talk	I am busy now; I will call you in __	Notifying someone	"5 min, 10 min, 15 min, 20 min, 25 min, 30 min, 35 min, 40 min, 45 min, 50 min, 55 min, 1 hour"	
+inside frequently visited locations	Not able to talk	I am busy now; I will call you at __	Notifying someone	"1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+inside frequently visited locations	Not able to talk	I am very tiered to talk right now; I will let you know when I can 	Notifying someone		
+nearby points-of-interest	Not able to talk	I am with my __; I will call you later 	Notifying someone	"friends, family, colleagues, manager, children "	
+nearby points-of-interest	Not able to talk	I am with __; I will call you in __ 	Notifying someone	"friends, family, colleagues, manager, children -- 5 min, 10 min, 15 min, 20 min, 25 min, 30 min, 35 min, 40 min, 45 min, 50 min, 55 min, 1 hour"	
+nearby points-of-interest	Not able to talk	I am with __; I will call you at __ 	Notifying someone	"friends, family, colleagues, manager, children -- 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+nearby points-of-interest	Not able to talk	I am not able to talk right now; can we reschedule?	Rescheduling plans		
+nearby points-of-interest	Not able to talk	I won’t be able to talk at __; can we reschedule?	Rescheduling plans	"1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+nearby points-of-interest	Not able to talk	I won’t be able to talk at the time we planned; can we reschedule?	Rescheduling plans		
+nearby points-of-interest	Not able to talk	I won’t be able to talk at __; can we instead talk at __?	Scheduling plans	"1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 -- 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55 -- 05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+nearby points-of-interest	Not able to talk	I won’t be able to talk at the time we planned; can we instead talk at __?	Scheduling plans		
+nearby points-of-interest	Not able to talk	I won’t be able to talk at the time we planned; can we instead talk __ at __?	Scheduling plans	"1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+nearby points-of-interest	Not able to talk	I won’t be able to talk at the time we planned; can we cancel our phone call?	Scheduling plans	"Later today, today afternoon, tomorrow, tomorrow morning, tomorrow afternoon, tomorrow night -- 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+nearby points-of-interest	Not able to talk	I won’t be able to talk at the time we planned; can we set up another phone call?	Scheduling plans		
+nearby points-of-interest	Not able to talk	"Sorry, I couldn't talk before, are you available __? "	Coordinating with someone	"Now, later today, today afternoon, tomorrow, tomorrow morning, tomorrow afternoon, tomorrow night"	
+nearby points-of-interest	Not able to talk	"Sorry, I couldn't talk before, are you available __ at __? "	Coordinating with someone	"Later today, today afternoon, tomorrow, tomorrow morning, tomorrow afternoon, tomorrow night -- 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+nearby points-of-interest	Not able to talk	"Sorry, I couldn't talk before, are you available at __? "	Coordinating with someone	"1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+nearby points-of-interest	Not able to talk	"Sorry, I couldn’t talk before. Did you call me?"	Coordinating with someone		
+walking to stations	Not able to talk	Remember I will be in a __ from __ to __and won't be able to talk	Reminding someone	"Meeting, class, conference, plane -- 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 -- 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55 -- 05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+waiting at stations	Making plans	I am planning to go to __ later __	Notifying someone	"School, work, cinema, mall, gym, restaurant, bar -- Today, today morning, today afternoon, tonight, tomorrow, tomorrow morning, tomorrow afternoon, tomorrow night "	
+waiting at stations	Making plans	__ is planning to go to __ later __	Notifying someone	"Mom, dad, my family, the son, the daughter, my wife, my husband, my colleague, my friend -- School, work, cinema, mall, gym, restaurant, bar -- Today, today morning, today afternoon, tonight, tomorrow, tomorrow morning, tomorrow afternoon, tomorrow night "	
+waiting at stations	Making plans	I will go to __ on __	Notifying someone	"School, work, cinema, mall, gym, restaurant, bar -- Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday "	
+waiting at stations	Making plans	__ will go to __ on __	Notifying someone	"Mom, dad, my family, the son, the daughter, my wife, my husband, my colleague, my friend -- School, work, cinema, mall, gym, restaurant, bar -- Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday "	
+waiting at stations	Making plans	I am planning to go to a restaurant for __	Notifying someone	"Breakfast, lunch, dinner"	
+in-vehicle	Making plans	I will text you when I get closer 	Notifying someone		
+walking to stations	Making plans	I canceled the plan with __ for __	Notifying someone	"friends, colleagues, my family, mom, dad, my parents, my brother, my sister, the son, the daughter, children, my wife, my husband -- Today, today morning, today afternoon, tonight, tomorrow, tomorrow morning, tomorrow afternoon, tomorrow night "	
+walking to stations	Making plans	I canceled the plan on __	Notifying someone	"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday "	
+walking to stations	Making plans	I canceled the plan for __	Notifying someone	"Breakfast, lunch, dinner"	
+walking to stations	Making plans	I am planning to go to __ with __  later __	Notifying someone	"School, work, cinema, mall, gym, restaurant, bar -- friends, colleagues, my family, mom, dad, my parents, my brother, my sister, the son, the daughter, children, my wife, my husband -- Today, today morning, today afternoon, tonight, tomorrow, tomorrow morning, tomorrow afternoon, tomorrow night "	
+in-vehicle	Making plans	I am planning to see __ at the __	Notifying someone	"You, friends, colleagues, my family, mom, dad, my parents, my brother, my sister, the son, the daughter, children, my wife, my husband -- train station, bus stop, school, work, cinema, mall, gym, restaurant, bar "	
+waiting at stations	Making plans	What are your plans for __?	Scheduling plans	"Today, today morning, today afternoon, tonight, tomorrow, tomorrow morning, tomorrow afternoon, tomorrow night "	
+waiting at stations	Making plans	What are you going to do this weekend? 	Scheduling plans		
+waiting at stations	Making plans	What are your plans for __?	Scheduling plans	"Breakfast, lunch, dinner"	
+waiting at stations	Making plans	What are your plans on __? 	Scheduling plans	"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday "	
+waiting at stations	Making plans	what are you up to?	Scheduling plans		
+in-vehicle	Making plans	"Sorry, I have to cancel our plan for __"	Scheduling plans	"Today, today morning, today afternoon, tonight, tomorrow, tomorrow morning, tomorrow afternoon, tomorrow night "	
+in-vehicle	Making plans	"Sorry, I have to cancel our plan for __"	Scheduling plans	"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday "	
+waiting at stations	Making plans	What's for __?	Scheduling plans	"Breakfast, lunch, dinner"	
+waiting at stations	Making plans	Where shall we go for __?	Scheduling plans	"Breakfast, lunch, dinner"	
+waiting at stations	Making plans	Do we have a companion for __?	Scheduling plans	"Breakfast, lunch, dinner"	
+waiting at stations	Making plans	What would you like for __?	Scheduling plans	"Breakfast, lunch, dinner"	
+waiting at stations	Making plans	Have you had your __ yet?	Scheduling plans	"Breakfast, lunch, dinner"	
+waiting at stations	Making plans	Do you eat at __ or out?	Scheduling plans	"Home, work"	
+in-vehicle	Changing plans	"I can’t come anymore, something came up! "	Notifying someone		
+in-vehicle	Changing plans	"Something came up, I can’t make it today"	Notifying someone		
+waiting at stations	Changing plans	"I got to do some extra work today, I have to cancel our plan"	Notifying someone		
+waiting at stations	Changing plans	I can’t make our plan for __	Notifying someone	"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday "	
+nearby frequently visited locations	Changing plans	"My plan has changed, I will be home late "	Notifying someone		
+in-vehicle	Changing plans	"I have family emergency, I can’t make our plan "	Notifying someone		
+walking to stations	Changing plans	I decided to change my plan	Notifying someone		
+walking to stations	Changing plans	I can’t make it today	Notifying someone		
+walking to stations	Changing plans	My plan has changed for __	Notifying someone	"Today, today morning, today afternoon, tonight, tomorrow, tomorrow morning, tomorrow afternoon, tomorrow night "	
+walking to stations	Changing plans	__ I can’t come for __	Notifying someone	"Today, today morning, today afternoon, tonight, tomorrow, tomorrow morning, tomorrow afternoon, tomorrow night -- Breakfast, lunch, dinner"	
+walking to stations	Changing plans	I changed my plan with __	Notifying someone	"friends, colleagues, my family, mom, dad, my parents, my brother, my sister, the son, the daughter, children, my wife, my husband "	
+walking to stations	Changing plans	I changed my plan for __	Notifying someone	"Today, today morning, today afternoon, tonight, tomorrow, tomorrow morning, tomorrow afternoon, tomorrow night "	
+walking to stations	Changing plans	I changed my plan for __	Notifying someone	"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday "	
+walking to stations	Changing plans	"I can’t make our plan for __, can we reschedule? "	Rescheduling plans	"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday "	
+walking to stations	Changing plans	"I got to do some extra work today, I have to cancel our plan, can we reschedule?"	Rescheduling plans		
+walking to stations	Changing plans	I have to cancel our plan for today; can we reschedule for tomorrow or another day?	Rescheduling plans		
+in-vehicle	Changing plans	"I have family emergency, I can’t make our plan, can we reschedule?"	Rescheduling plans		
+waiting at stations	Changing plans	"I can’t make it today, can we reschedule?"	Rescheduling plans		
+waiting at stations	Changing plans	"My plan has changed for __, can we reschedule? "	Rescheduling plans	"Today, today morning, today afternoon, tonight, tomorrow, tomorrow morning, tomorrow afternoon, tomorrow night "	
+waiting at stations	Changing plans	"I have to cancel our plan for __, can we reschedule? "	Rescheduling plans	"Breakfast, lunch, dinner"	
+waiting at stations	Changing plans	"I have to cancel our plan, can we reschedule?"	Rescheduling plans		
+waiting at stations	Changing plans	"I am sorry, I have to change our plan. Can we reschedule?"	Rescheduling plans		
+waiting at stations	Check-in location	Have you arrived?	Coordinating with someone		
+waiting at stations	Check-in location	"I am here, are you coming? "	Coordinating with someone		
+waiting at stations	Check-in location	Are you here at *?	Coordinating with someone		
+nearby points-of-interest	Check-in location	"I am in the *, where are you?"	Coordinating with someone		
+waiting at stations	Check-in location	"I arrived __ ago, where are you?"	Coordinating with someone	"5 min, 10 min, 15 min, 20 min, 25 min, 30 min"	
+waiting at stations	Check-in location	"I arrived at __, where are you?"	Coordinating with someone	"1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+waiting at stations	Check-in location	"I am waiting for you at *, are you coming? "	Coordinating with someone		
+waiting at stations	Check-in location	"I am waiting for you here, where are you? "	Coordinating with someone		
+waiting at stations	Check-in location	"I have arrived, can you check how far you are?"	Coordinating with someone		
+nearby frequently visited locations	Check-in location	"I am ready, where are you?"	Coordinating with someone		
+in-vehicle	Check-in location	"I am on the way by __, where are you?"	Coordinating with someone	"Train, bus, Uber, car, taxi, foot"	
+nearby frequently visited locations	Check-in location	I arrived here early. Where are you?	Coordinating with someone		
+nearby frequently visited locations	Check-in location	I returned home; where are you?	Coordinating with someone		
+in-vehicle	Check-in location	"I am on the way by __, have you arrived?"	Coordinating with someone	"Train, bus, Uber, car, taxi, foot"	
+in-vehicle	Check-in location	"I am on the way with __, have you arrived?"	Coordinating with someone	"Friend, family, dog, son, dad, mom, daughter, wife, husband"	
+in-vehicle	Check-in location	"I am on the way with __, where are you?"	Coordinating with someone	"Friend, family, dog, son, dad, mom, daughter, wife, husband"	
+inside points-of-interest	Check-in location	I have came to *. Is there anyone in *?	Coordinating with someone		
+walking to stations	Check-in location	I am still on the way. Do you know if anyone has arrived?	Coordinating with someone		
+waiting at stations	Check-in location	I am waiting for you to guide me in. have you arrived?	Coordinating with someone		
+waiting at stations	Check-in location	I am waiting for you. have you arrived?	Coordinating with someone		
+nearby points-of-interest	Check-in location	I am standing at *. have you arrived?	Coordinating with someone		
+nearby points-of-interest	Check-in location	I am here with my _; have you arrived?	Coordinating with someone	"Friend, family, dog, son, dad, mom, daughter, wife, husband"	
+nearby points-of-interest	Check-in location	Where are you? I arrived here long time ago	Coordinating with someone		
+nearby points-of-interest	Check-in location	"I need help to find the entrance, where are you?"	Coordinating with someone		
+walking to stations	Check-in location	"I need a ride, where are you?"	Coordinating with someone		
+walking to stations	Check-in location	Where are you? I need a ride to get to the __	Coordinating with someone	"Airport, office, work, restaurant, mall, gym, store, bar, Starbucks, library, class, school"	
+nearby points-of-interest	Check-in location	"I need help to get to the place, where are you?"	Coordinating with someone		
+nearby points-of-interest	Check-in location	I arrived at the __; where are you?	Coordinating with someone	"Airport, restaurant, mall, gym, store, bar, Starbucks, library, class, school"	
+inside frequently visited locations	Check-in location	"I am in my office, are you coming?"	Coordinating with someone		
+inside frequently visited locations	Check-in location	"I am in my office, where are you?"	Coordinating with someone		
+waiting at stations	Check-in location	The plane landed. Are you coming?	Coordinating with someone		
+waiting at stations	Check-in location	"I arrived at the __, __ ago; where are you?"	Coordinating with someone	"Airport, restaurant, mall, gym, store, bar, Starbucks, library, class, school -- 5 min, 10 min, 15 min, 20 min, 25 min, 30 min"	
+nearby points-of-interest	Check-in location	"I need help to find the entrance, where are you?"	Requesting help		
+walking to stations	Check-in location	"I need a ride, where are you?"	Requesting help		
+walking to stations	Check-in location	Where are you? I need a ride to get to the __	Requesting help	"Airport, office, work, restaurant, mall, gym, store, bar, Starbucks, library, class, school"	
+nearby points-of-interest	Check-in location	"I need help to get to the place, where are you?"	Requesting help		
+in-vehicle	Check-in location	Where are you? I can give you a ride	Offering help		
+in-vehicle	Check-in location	Where are you? I can ask __ to give you a ride	Offering help	"Mom, dad, my brother, my sister, the son, the daughter, my friend, my colleague, my wife, my husband"	
+nearby points-of-interest	Check-in location	Are you here yet? I can guide you to the place	Offering help		
+inside points-of-interest	Check-in location	Have you arrived at the __? I can ask __ to come and pick you up	Offering help	"Airport, office, work, restaurant, mall, gym, store, bar, Starbucks, library, class, school -- Mom, dad, my brother, my sister, the son, the daughter, my friend, my colleague, my wife, my husband"	
+inside points-of-interest	Check-in location	Have you arrived at the __? I can come and pick you up	Offering help	"Airport, office, work, restaurant, mall, gym, store, bar, Starbucks, library, class, school "	
+inside points-of-interest	Check-in location	Have you arrived at the __? I can come and guide you in	Offering help	"Train station, bus stop, restaurant, mall, gym, store, bar, Starbucks, library, class, school "	
+waiting at stations	Check-in guest	Who is going to be for **? 	Coordinating with someone	"Breakfast, lunch, dinner, party, ceremony "	
+waiting at stations	Check-in guest	How many people will come for __?	Coordinating with someone	"Breakfast, lunch, dinner, party, ceremony "	
+waiting at stations	Check-in guest	Will you come for **?	Coordinating with someone	"Breakfast, lunch, dinner, party, ceremony "	
+waiting at stations	Check-in guest	Are you ready for **?	Coordinating with someone	"Breakfast, lunch, dinner, party, ceremony "	
+waiting at stations	Check-in guest	How many people are going to be here __?	Coordinating with someone	"Today, today afternoon, tonight, tomorrow, tomorrow morning, tomorrow afternoon, tomorrow night"	
+waiting at stations	Check-in guest	How many people are going to be here on __?	Coordinating with someone	"Weekend, Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday  "	
+waiting at stations	Check-in guest	Will __ come for __?	Coordinating with someone	"Your friends, your family, the son, dad, mom, the daughter, your wife, your husband -- Breakfast, lunch, dinner, party, ceremony "	
+waiting at stations	Check-in guest	Everyone will come today?	Coordinating with someone		
+waiting at stations	Check-in guest	Who is going to come on __?	Coordinating with someone	"Weekend, Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday  "	
+waiting at stations	Check-in guest	Who is going to come  __?	Coordinating with someone	"Today, today afternoon, tonight, tomorrow, tomorrow morning, tomorrow afternoon, tomorrow night"	
+in-vehicle	Check-in guest	Your __ will come today?	Coordinating with someone	"friends, family, son, dad, mom, daughter, wife, husband"	
+in-vehicle	Check-in guest	Your __ will come for **?	Coordinating with someone	"friends, family, son, dad, mom, daughter, wife, husband -- Breakfast, lunch, dinner, party, ceremony "	
+in-vehicle	Check-in guest	Your __ will come __?	Coordinating with someone	"friends, family, son, dad, mom, daughter, wife, husband -- Today, today afternoon, tonight, tomorrow, tomorrow morning, tomorrow afternoon, tomorrow night"	
+in-vehicle	Check-in guest	Your __ will come on __?	Coordinating with someone	"friends, family, son, dad, mom, daughter, wife, husband --Weekend, Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday  "	
+waiting at stations	Check-in guest	"Can you remind me later __, how many people are supposed to be for __?"	Reminding someone	"Today, today afternoon, tonight, tomorrow, tomorrow morning, tomorrow afternoon, tomorrow night -- Breakfast, lunch, dinner, party, ceremony "	
+waiting at stations	Check-in guest	"Can you remind me later __, who is going to come for __?"	Reminding someone		
+waiting at stations	Check-in guest	"Can you remind me later __, how many people are supposed to come on __?"	Reminding someone	"Today, today afternoon, tonight, tomorrow, tomorrow morning, tomorrow afternoon, tomorrow night -- Weekend, Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday  "	
+waiting at stations	Check-in guest	"Can you remind me later __, who is going to come on__?"	Reminding someone		
+waiting at stations	Check-in guest	Do we have __ guests for __?	Reminding someone	"1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20 -- Breakfast, lunch, dinner, party, ceremony "	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+nearby frequently visited locations	Bring food	Could you bring food?	Requesting help		
+inside frequently visited locations	Bring food	Can you bring breakfast in the morning?	Requesting help		
+inside frequently visited locations	Bring food	Can you bring breakfast at __?	Requesting help	"7, 8, 9, 10"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+inside frequently visited locations	Bring food	Can you bring lunch in the afternoon?	Requesting help		
+inside frequently visited locations	Bring food	Can you bring lunch at __?	Requesting help	"12, 1, 2, 3, 4"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+inside frequently visited locations	Bring food	Can you bring dinner at night?	Requesting help		
+inside frequently visited locations	Bring food	Can you bring dinner at __?	Requesting help	"6, 7, 8, 9 ,10"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+inside frequently visited locations	Bring food	Could you bring __ for lunch?	Requesting help	"Food, pizza, sandwich, cookie, soup"	
+inside frequently visited locations	Bring food	Could you bring __ for breakfast?	Requesting help	"Food, tea, coffee, biscuits, bacon, pancakes, cookies, milk, bread"	
+inside frequently visited locations	Bring food	Could you bring __ for dinner?	Requesting help	"Food, pizza, desert, cookies, wine, salad, soup, snacks"	
+inside frequently visited locations	Bring food	Can you ask __ to bring __?	Requesting help	"Your family, the son, the daughter, your wife, your husband, mom, dad, the colleague, the friend – breakfast, lunch, dinner"	
+walking to stations	Bring food	"I don’t have a break today, could you please bring __?"	Requesting help	"Breakfast, lunch, dinner, food"	
+walking to stations	Bring food	"I can't go outside today, could you please bring __?"	Requesting help	"Breakfast, lunch, dinner, food"	
+inside frequently visited locations	Bring food	"I am a little tiered of going out, could you please bring __?"	Requesting help	"Breakfast, lunch, dinner, food"	
+inside frequently visited locations	Bring food	Could you bring food for __?	Requesting help	"Me, us, collogues, family, yourself, children"	
+inside frequently visited locations	Bring food	Could you bring __ after the __?	Requesting help	"Breakfast, lunch, dinner, food -- Meeting, event, session, interview, talk"	
+nearby frequently visited locations	Bring food	I am going to bring __ for lunch	Notifying someone	"Food, pizza, sandwich, cookie, soup"	
+nearby frequently visited locations	Bring food	I am ready for __	Notifying someone	"Breakfast, lunch, dinner"	
+nearby frequently visited locations	Bring food	I am going to bring __ for breakfast	Notifying someone	"Food, tea, coffee, biscuits, bacon, pancakes, cookies, milk, bread"	
+nearby frequently visited locations	Bring food	I am going to bring __ for dinner	Notifying someone	"Food, pizza, desert, cookies, wine, salad, soup, snacks"	
+nearby frequently visited locations	Bring food	__ I will bring food for __	Notifying someone	"Today, tomorrow -- Breakfast, lunch, dinner "	
+nearby frequently visited locations	Bring food	On __ I will bring food for __	Notifying someone	"Monday, Tuesday, Wednesday, Friday, Saturday, Sunday -- Breakfast, lunch, dinner "	
+nearby frequently visited locations	Bring food	"Today I will skip __, no need to bring food"	Notifying someone	"Breakfast, lunch, dinner "	
+nearby points-of-interest	Bring food	"I already had __, no need to bring food"	Notifying someone	"Meal, breakfast, lunch, dinner"	
+nearby frequently visited locations	Bring food	I am waiting for my __ to bring food for me	Notifying someone	"family, son, daughter, wife, husband, mom, dad, colleague, friend"	
+nearby points-of-interest	Bring food	My __ will bring food for me	Notifying someone	"Colleague, friend, family, children, husband, wife"	
+nearby points-of-interest	Bring food	__ My __ will bring __ for me	Notifying someone	"Today, tomorrow -- Colleague, friend, family, children, husband, wife -- breakfast, lunch, dinner"	
+nearby points-of-interest	Bring food	Let’s bring __ for the picnic	Scheduling plans	"Snacks, drinks, coffee, tea, sandwiches "	
+nearby points-of-interest	Bring food	Let’s bring __ for dinner	Scheduling plans	"Food, pizza, desert, cookies, wine, salad, soup, snacks"	
+nearby points-of-interest	Bring food	Let’s bring __ for lunch	Scheduling plans	"Food, pizza, sandwich, cookie, soup"	
+nearby points-of-interest	Bring food	Let’s bring __ for breakfast	Scheduling plans	"Food, pizza, desert, cookies, wine, salad, soup, snacks"	
+in-vehicle	Bring food	"Sorry, I can’t bring __ today "	Scheduling plans	"Meal, breakfast, lunch, dinner"	
+in-vehicle	Bring food	"Sorry, I can’t bring __ tomorrow"	Scheduling plans	"Meal, breakfast, lunch, dinner"	
+in-vehicle	Bring food	"Sorry, I can’t bring __ on __"	Scheduling plans	"Meal, breakfast, lunch, dinner -- Monday, Tuesday, Wednesday, Friday, Saturday, Sunday "	
+in-vehicle	Bring food	Let’s plan to bring __ on __	Scheduling plans	"Meal, breakfast, lunch, dinner -- Monday, Tuesday, Wednesday, Friday, Saturday, Sunday "	
+in-vehicle	Bring food	Let’s plan to bring __ for today	Scheduling plans	"Meal, breakfast, lunch, dinner "	
+in-vehicle	Bring food	Let’s plan to bring __ for tomorrow 	Scheduling plans	"Meal, breakfast, lunch, dinner "	
+in-vehicle	Bring food	"I can’t bring lunch at __, can I bring at __ instead?"	Rescheduling plans	"12, 1, 2, 3, 4 -- 12, 1, 2, 3, 4 "	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55 -- 05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+in-vehicle	Bring food	"I can’t bring breakfast at __, can I bring at __ instead?"	Rescheduling plans	"7, 8, 9, 10 -- 7, 8, 9, 10"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55 -- 05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+in-vehicle	Bring food	"I can’t bring dinner at __, can I bring at __ instead?"	Rescheduling plans	"6, 7, 8, 9 ,10 -- 6, 7, 8, 9 ,10"	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55 -- 05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+waiting at stations	Bring food	Who is going to bring __ for __?	Coordinating with someone	"Food, breakfast, meal, lunch, dinner, cookies -- today, tomorrow "	
+waiting at stations	Bring food	Who is going to bring __ on __?	Coordinating with someone	"Food, breakfast, meal, lunch, dinner, cookies -- Monday, Tuesday, Wednesday, Friday, Saturday, Sunday "	
+walking to stations	Bring food	What time do I have to bring the food?	Coordinating with someone		
+walking to stations	Bring food	"On __, what time do I have to bring __?"	Coordinating with someone	"Monday, Tuesday, Wednesday, Friday, Saturday, Sunday -- Food, breakfast, meal, lunch, dinner"	
+inside frequently visited locations	Bring food	Is it fine to bring breakfast at __ on __?	Coordinating with someone	"7, 8, 9, 10 -- Monday, Tuesday, Wednesday, Friday, Saturday, Sunday "	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+inside frequently visited locations	Bring food	Is it fine to bring lunch at __ on __?	Coordinating with someone	"12, 1, 2, 3, 4 -- Monday, Tuesday, Wednesday, Friday, Saturday, Sunday "	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+inside frequently visited locations	Bring food	Is it fine to bring dinner at __ on __?	Coordinating with someone	"6, 7, 8, 9 ,10 -- Monday, Tuesday, Wednesday, Friday, Saturday, Sunday "	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+inside frequently visited locations	Bring food	For __ is it fine to bring breakfast at __?	Coordinating with someone	"Today, tomorrow -- 7, 8, 9, 10 "	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+inside frequently visited locations	Bring food	For __ is it fine to bring lunch at __?	Coordinating with someone	"Today, tomorrow -- 12, 1, 2, 3, 4 "	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+inside frequently visited locations	Bring food	For __ is it fine to bring dinner at __?	Coordinating with someone	"Today, tomorrow -- 6, 7, 8, 9 ,10 "	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+in-vehicle	Bring food	Don’t forget to bring __ for today	Reminding someone	"Food, breakfast, lunch, dinner"	
+in-vehicle	Bring food	Don’t forget to bring __ for tomorrow	Reminding someone	"Food, breakfast, lunch, dinner"	
+in-vehicle	Bring food	Don’t forget to bring __ on __	Reminding someone	"Food, breakfast, lunch, dinner -- Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday"	
+in-vehicle	Bring food	For __ remember to bring breakfast at __	Reminding someone	"Today, tomorrow -- 7, 8, 9, 10 "	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+in-vehicle	Bring food	For __ remember to bring lunch at __	Reminding someone	"Today, tomorrow -- 12, 1, 2, 3, 4 "	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+in-vehicle	Bring food	For __ remember to bring dinner at __	Reminding someone	"Today, tomorrow -- 6, 7, 8, 9 ,10 "	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+in-vehicle	Bring food	On __ remember to bring breakfast at __	Reminding someone	"Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday -- 7, 8, 9, 10 "	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+in-vehicle	Bring food	On __ remember to bring lunch at __	Reminding someone	"Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday -- 12, 1, 2, 3, 4 "	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
+in-vehicle	Bring food	On __ remember to bring dinner at __	Reminding someone	"Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday -- 6, 7, 8, 9 ,10 "	"05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55"
